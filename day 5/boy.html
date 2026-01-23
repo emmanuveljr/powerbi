@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Executive Sales Dashboard</title>
+
+<!-- Chart Libraries -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-treemap@2.3.0"></script>
+
+<style>
+:root {
+  --bg: #f5f6f8;
+  --card: #ffffff;
+  --primary: #2563eb;
+  --secondary: #10b981;
+  --text: #111827;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  display: flex;
+  height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 240px;
+  background: #111827;
+  color: #e5e7eb;
+  padding: 24px;
+}
+.sidebar h2 {
+  color: white;
+  margin-bottom: 32px;
+}
+.sidebar div {
+  margin: 14px 0;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Main */
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+.header {
+  background: white;
+  padding: 18px 28px;
+  border-bottom: 1px solid var(--border);
+}
+.header h1 {
+  margin: 0;
+  font-size: 20px;
+}
+
+/* Content */
+.content {
+  padding: 24px;
+  overflow-y: auto;
+}
+
+/* Filters */
+.filters {
+  margin-bottom: 24px;
+}
+select {
+  padding: 8px 12px;
+  font-size: 14px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+/* KPIs */
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 28px;
+}
+.kpi {
+  background: var(--card);
+  padding: 18px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+.kpi span {
+  font-size: 13px;
+  color: var(--muted);
+}
+.kpi h3 {
+  margin: 8px 0 0;
+  font-size: 26px;
+}
+
+/* Charts */
+.charts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 18px;
+}
+.card h4 {
+  margin-bottom: 12px;
+  font-size: 15px;
+}
+canvas {
+  max-height: 300px;
+}
+</style>
+</head>
+
+<body>
+
+<!-- Sidebar -->
+<div class="sidebar">
+  <h2>Power BI</h2>
+  <div>Dashboard</div>
+  <div>Sales</div>
+  <div>Products</div>
+  <div>Reports</div>
+</div>
+
+<!-- Main -->
+<div class="main">
+
+  <!-- Header -->
+  <div class="header">
+    <h1>Executive Sales Overview</h1>
+  </div>
+
+  <!-- Content -->
+  <div class="content">
+
+    <!-- Filters -->
+    <div class="filters">
+      Region:
+      <select id="region" onchange="updateDashboard()">
+        <option value="all">All Regions</option>
+        <option value="north">North</option>
+        <option value="south">South</option>
+      </select>
+    </div>
+
+    <!-- KPIs -->
+    <div class="kpis">
+      <div class="kpi">
+        <span>Total Sales</span>
+        <h3 id="totalSales">$0</h3>
+      </div>
+      <div class="kpi">
+        <span>Total Orders</span>
+        <h3>3,420</h3>
+      </div>
+      <div class="kpi">
+        <span>Avg Order Value</span>
+        <h3>$35</h3>
+      </div>
+      <div class="kpi">
+        <span>YoY Growth</span>
+        <h3>+12%</h3>
+      </div>
+    </div>
+
+    <!-- Charts -->
+    <div class="charts">
+
+      <div class="card">
+        <h4>Monthly Sales Trend</h4>
+        <canvas id="lineChart"></canvas>
+      </div>
+
+      <div class="card">
+        <h4>Quarterly Revenue</h4>
+        <canvas id="barChart"></canvas>
+      </div>
+
+      <div class="card">
+        <h4>Sales by Category</h4>
+        <canvas id="treeChart"></canvas>
+      </div>
+
+      <div class="card">
+        <h4>Category Contribution</h4>
+        <canvas id="pieChart"></canvas>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+const sales = {
+  all:   [12000,15000,14000,18000,20000,22000],
+  north: [7000,9000,8000,10000,11000,12000],
+  south: [5000,6000,6000,8000,9000,10000]
+};
+
+const sum = arr => arr.reduce((a,b) => a + b, 0);
+
+// Line Chart
+const lineChart = new Chart(document.getElementById("lineChart"), {
+  type: "line",
+  data: {
+    labels: ["Jan","Feb","Mar","Apr","May","Jun"],
+    datasets: [{
+      label: "Sales",
+      data: sales.all,
+      borderColor: "#2563eb",
+      backgroundColor: "rgba(37,99,235,0.1)",
+      tension: 0.3,
+      fill: true
+    }]
+  }
+});
+
+// Bar Chart
+const barChart = new Chart(document.getElementById("barChart"), {
+  type: "bar",
+  data: {
+    labels: ["Q1","Q2","Q3","Q4"],
+    datasets: [{
+      label: "Revenue",
+      data: [35000,42000,30000,45000],
+      backgroundColor: "#10b981"
+    }]
+  }
+});
+
+// Treemap
+const treeChart = new Chart(document.getElementById("treeChart"), {
+  type: "treemap",
+  data: {
+    datasets: [{
+      tree: [
+        { category: "Electronics", value: 50000 },
+        { category: "Clothing", value: 30000 },
+        { category: "Home", value: 20000 },
+        { category: "Sports", value: 15000 }
+      ],
+      key: "value",
+      groups: ["category"],
+      backgroundColor: ctx => {
+        const colors = ["#2563eb","#10b981","#f59e0b","#ef4444"];
+        return colors[ctx.dataIndex % colors.length];
+      },
+      labels: {
+        display: true,
+        formatter: ctx => ctx.raw.category
+      }
+    }]
+  }
+});
+
+// Pie Chart
+const pieChart = new Chart(document.getElementById("pieChart"), {
+  type: "pie",
+  data: {
+    labels: ["Electronics","Clothing","Home","Sports"],
+    datasets: [{
+      data: [50000,30000,20000,15000],
+      backgroundColor: ["#2563eb","#10b981","#f59e0b","#ef4444"]
+    }]
+  }
+});
+
+function updateDashboard() {
+  const region = document.getElementById("region").value;
+  lineChart.data.datasets[0].data = sales[region];
+  lineChart.update();
+  document.getElementById("totalSales").innerText =
+    "$" + sum(sales[region]).toLocaleString();
+}
+
+// Initial load
+updateDashboard();
+</script>
+
+</body>
+</html>
