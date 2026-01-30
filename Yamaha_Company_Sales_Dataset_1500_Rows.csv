@@ -1,0 +1,1501 @@
+Transaction_ID,Sale_Date,Region,Product_Division,Product_Name,Units_Sold,Unit_Price_USD,Total_Revenue_USD
+1,2022-01-01,India,Musical Instruments,MT-15,14,14052.52,196735.28
+2,2022-01-02,Japan,Musical Instruments,R15,3,5477.9,16433.7
+3,2022-01-03,Asia-Pacific,Musical Instruments,AV Receiver,4,17803.42,71213.68
+4,2022-01-04,Japan,Audio Equipment,MT-15,12,7952.0,95424.0
+5,2022-01-05,Japan,Musical Instruments,R15,9,12921.04,116289.36
+6,2022-01-06,Japan,Audio Equipment,R15,14,3511.09,49155.26
+7,2022-01-07,Europe,Marine Products,R15,8,7716.52,61732.16
+8,2022-01-08,Asia-Pacific,Audio Equipment,MT-15,11,5603.79,61641.69
+9,2022-01-09,North America,Musical Instruments,Piano,13,13855.53,180121.89
+10,2022-01-10,India,Marine Products,Outboard Motor,1,7185.58,7185.58
+11,2022-01-11,North America,Audio Equipment,R15,14,5537.12,77519.68
+12,2022-01-12,Japan,Motorcycles,Piano,3,9536.32,28608.96
+13,2022-01-13,Asia-Pacific,Audio Equipment,Keyboard,1,12689.08,12689.08
+14,2022-01-14,India,Musical Instruments,Keyboard,14,7331.6,102642.4
+15,2022-01-15,North America,Motorcycles,Piano,6,3600.68,21604.08
+16,2022-01-16,Japan,Musical Instruments,FZ-S,3,14536.62,43609.86
+17,2022-01-17,Asia-Pacific,Motorcycles,MT-15,9,17912.05,161208.45
+18,2022-01-18,Asia-Pacific,Motorcycles,Keyboard,4,11771.67,47086.68
+19,2022-01-19,Europe,Audio Equipment,MT-15,10,12257.69,122576.9
+20,2022-01-20,Asia-Pacific,Musical Instruments,R15,14,3747.51,52465.14
+21,2022-01-21,Asia-Pacific,Musical Instruments,Keyboard,7,5909.53,41366.71
+22,2022-01-22,Japan,Motorcycles,Outboard Motor,8,14054.29,112434.32
+23,2022-01-23,India,Motorcycles,FZ-S,12,10342.95,124115.4
+24,2022-01-24,North America,Audio Equipment,Guitar,10,1694.93,16949.3
+25,2022-01-25,North America,Motorcycles,Piano,14,17059.91,238838.74
+26,2022-01-26,Japan,Motorcycles,Piano,1,12910.49,12910.49
+27,2022-01-27,Asia-Pacific,Audio Equipment,MT-15,11,896.5,9861.5
+28,2022-01-28,North America,Motorcycles,MT-15,13,15570.3,202413.9
+29,2022-01-29,Japan,Musical Instruments,Piano,14,1020.73,14290.22
+30,2022-01-30,Japan,Marine Products,MT-15,13,3937.39,51186.07
+31,2022-01-31,North America,Motorcycles,Outboard Motor,10,7914.63,79146.3
+32,2022-02-01,Europe,Audio Equipment,Piano,12,1903.89,22846.68
+33,2022-02-02,Japan,Motorcycles,MT-15,5,16962.64,84813.2
+34,2022-02-03,Japan,Marine Products,MT-15,7,11706.77,81947.39
+35,2022-02-04,Europe,Musical Instruments,MT-15,7,15954.61,111682.27
+36,2022-02-05,India,Marine Products,MT-15,10,9999.22,99992.2
+37,2022-02-06,Asia-Pacific,Audio Equipment,R15,8,1099.72,8797.76
+38,2022-02-07,Japan,Musical Instruments,Outboard Motor,13,848.28,11027.64
+39,2022-02-08,North America,Motorcycles,Outboard Motor,9,262.57,2363.13
+40,2022-02-09,Asia-Pacific,Marine Products,Outboard Motor,3,9029.26,27087.78
+41,2022-02-10,North America,Audio Equipment,Piano,6,15645.46,93872.76
+42,2022-02-11,Asia-Pacific,Musical Instruments,MT-15,13,10919.29,141950.77
+43,2022-02-12,India,Marine Products,Guitar,10,17419.02,174190.2
+44,2022-02-13,Japan,Motorcycles,Piano,14,15673.23,219425.22
+45,2022-02-14,Japan,Audio Equipment,AV Receiver,1,5621.49,5621.49
+46,2022-02-15,Europe,Musical Instruments,Piano,14,3887.3,54422.2
+47,2022-02-16,India,Marine Products,Keyboard,6,5367.64,32205.84
+48,2022-02-17,Europe,Motorcycles,AV Receiver,12,3469.85,41638.2
+49,2022-02-18,Asia-Pacific,Audio Equipment,Outboard Motor,1,16758.66,16758.66
+50,2022-02-19,Asia-Pacific,Marine Products,Keyboard,7,5545.97,38821.79
+51,2022-02-20,Asia-Pacific,Musical Instruments,AV Receiver,9,1744.32,15698.88
+52,2022-02-21,India,Marine Products,Piano,8,3676.84,29414.72
+53,2022-02-22,Japan,Musical Instruments,Piano,12,10432.46,125189.52
+54,2022-02-23,North America,Musical Instruments,Keyboard,5,6819.95,34099.75
+55,2022-02-24,North America,Musical Instruments,R15,13,1840.75,23929.75
+56,2022-02-25,North America,Musical Instruments,FZ-S,6,4319.74,25918.44
+57,2022-02-26,Japan,Musical Instruments,AV Receiver,4,5358.81,21435.24
+58,2022-02-27,Japan,Musical Instruments,Piano,5,9660.37,48301.85
+59,2022-02-28,India,Audio Equipment,FZ-S,6,16976.42,101858.52
+60,2022-03-01,North America,Musical Instruments,FZ-S,3,1426.97,4280.91
+61,2022-03-02,India,Marine Products,AV Receiver,14,8125.28,113753.92
+62,2022-03-03,India,Musical Instruments,Guitar,7,12883.02,90181.14
+63,2022-03-04,Japan,Motorcycles,Keyboard,8,8224.18,65793.44
+64,2022-03-05,North America,Musical Instruments,MT-15,5,14512.38,72561.9
+65,2022-03-06,North America,Motorcycles,Piano,7,11914.27,83399.89
+66,2022-03-07,Japan,Motorcycles,AV Receiver,1,17530.1,17530.1
+67,2022-03-08,India,Audio Equipment,Keyboard,14,8316.43,116430.02
+68,2022-03-09,Europe,Musical Instruments,Guitar,5,13107.7,65538.5
+69,2022-03-10,Japan,Marine Products,R15,7,8765.65,61359.55
+70,2022-03-11,India,Audio Equipment,Keyboard,1,4663.86,4663.86
+71,2022-03-12,Asia-Pacific,Marine Products,MT-15,2,1395.85,2791.7
+72,2022-03-13,Europe,Marine Products,Guitar,12,7892.51,94710.12
+73,2022-03-14,North America,Audio Equipment,MT-15,10,9578.08,95780.8
+74,2022-03-15,Japan,Audio Equipment,FZ-S,9,1126.18,10135.62
+75,2022-03-16,Asia-Pacific,Audio Equipment,Guitar,2,15213.77,30427.54
+76,2022-03-17,North America,Motorcycles,Outboard Motor,6,14018.49,84110.94
+77,2022-03-18,North America,Motorcycles,Keyboard,4,15219.48,60877.92
+78,2022-03-19,Japan,Musical Instruments,Keyboard,4,15051.17,60204.68
+79,2022-03-20,India,Motorcycles,Keyboard,11,14888.21,163770.31
+80,2022-03-21,Europe,Motorcycles,FZ-S,4,10643.02,42572.08
+81,2022-03-22,India,Marine Products,Piano,14,15316.26,214427.64
+82,2022-03-23,Japan,Audio Equipment,Piano,6,2600.63,15603.78
+83,2022-03-24,Europe,Motorcycles,FZ-S,7,4902.15,34315.05
+84,2022-03-25,India,Musical Instruments,Keyboard,7,1179.99,8259.93
+85,2022-03-26,Europe,Marine Products,AV Receiver,3,13619.03,40857.09
+86,2022-03-27,India,Motorcycles,Guitar,6,16591.82,99550.92
+87,2022-03-28,Europe,Audio Equipment,R15,11,8792.16,96713.76
+88,2022-03-29,India,Audio Equipment,FZ-S,4,3325.83,13303.32
+89,2022-03-30,Japan,Musical Instruments,MT-15,4,15064.87,60259.48
+90,2022-03-31,North America,Motorcycles,AV Receiver,9,8583.21,77248.89
+91,2022-04-01,North America,Motorcycles,FZ-S,12,4342.38,52108.56
+92,2022-04-02,India,Marine Products,Piano,13,8910.55,115837.15
+93,2022-04-03,India,Audio Equipment,R15,13,6874.63,89370.19
+94,2022-04-04,Europe,Motorcycles,FZ-S,3,5639.76,16919.28
+95,2022-04-05,India,Marine Products,Outboard Motor,2,3898.47,7796.94
+96,2022-04-06,India,Musical Instruments,Piano,10,13601.3,136013.0
+97,2022-04-07,India,Audio Equipment,Keyboard,2,8690.04,17380.08
+98,2022-04-08,India,Audio Equipment,R15,12,9744.39,116932.68
+99,2022-04-09,India,Musical Instruments,Outboard Motor,11,3706.45,40770.95
+100,2022-04-10,Europe,Motorcycles,Piano,5,5668.92,28344.6
+101,2022-04-11,Europe,Musical Instruments,FZ-S,7,5191.55,36340.85
+102,2022-04-12,Asia-Pacific,Marine Products,Keyboard,7,5903.5,41324.5
+103,2022-04-13,India,Marine Products,FZ-S,3,6705.72,20117.16
+104,2022-04-14,India,Musical Instruments,MT-15,3,13195.58,39586.74
+105,2022-04-15,Europe,Musical Instruments,MT-15,13,14527.78,188861.14
+106,2022-04-16,India,Motorcycles,MT-15,5,5656.2,28281.0
+107,2022-04-17,Asia-Pacific,Audio Equipment,Guitar,9,1739.61,15656.49
+108,2022-04-18,Europe,Marine Products,FZ-S,4,4478.16,17912.64
+109,2022-04-19,Asia-Pacific,Musical Instruments,Outboard Motor,9,17375.8,156382.2
+110,2022-04-20,Japan,Motorcycles,Piano,11,5346.52,58811.72
+111,2022-04-21,India,Marine Products,MT-15,14,9987.49,139824.86
+112,2022-04-22,India,Audio Equipment,Keyboard,1,2972.76,2972.76
+113,2022-04-23,India,Marine Products,Piano,10,15355.84,153558.4
+114,2022-04-24,Asia-Pacific,Motorcycles,FZ-S,8,16680.36,133442.88
+115,2022-04-25,Japan,Musical Instruments,AV Receiver,8,17594.63,140757.04
+116,2022-04-26,Europe,Marine Products,R15,6,14992.43,89954.58
+117,2022-04-27,India,Marine Products,Keyboard,11,8072.9,88801.9
+118,2022-04-28,Japan,Audio Equipment,Piano,4,4222.94,16891.76
+119,2022-04-29,Europe,Marine Products,Guitar,12,909.05,10908.6
+120,2022-04-30,North America,Motorcycles,AV Receiver,1,7328.57,7328.57
+121,2022-05-01,India,Musical Instruments,AV Receiver,7,10276.18,71933.26
+122,2022-05-02,Asia-Pacific,Musical Instruments,Outboard Motor,14,8264.62,115704.68
+123,2022-05-03,Asia-Pacific,Musical Instruments,Outboard Motor,14,15122.97,211721.58
+124,2022-05-04,Japan,Motorcycles,R15,11,9203.81,101241.91
+125,2022-05-05,North America,Motorcycles,Guitar,5,14684.7,73423.5
+126,2022-05-06,India,Motorcycles,R15,7,17382.61,121678.27
+127,2022-05-07,Japan,Audio Equipment,AV Receiver,11,6331.81,69649.91
+128,2022-05-08,Japan,Motorcycles,Keyboard,8,15681.92,125455.36
+129,2022-05-09,India,Audio Equipment,FZ-S,11,3473.72,38210.92
+130,2022-05-10,India,Marine Products,Guitar,12,2610.49,31325.88
+131,2022-05-11,Asia-Pacific,Marine Products,R15,14,6672.2,93410.8
+132,2022-05-12,North America,Musical Instruments,Outboard Motor,14,5991.9,83886.6
+133,2022-05-13,Japan,Musical Instruments,Outboard Motor,7,17675.3,123727.1
+134,2022-05-14,Japan,Audio Equipment,AV Receiver,14,6555.78,91780.92
+135,2022-05-15,Europe,Audio Equipment,Outboard Motor,10,9590.12,95901.2
+136,2022-05-16,Japan,Musical Instruments,Keyboard,8,13844.29,110754.32
+137,2022-05-17,Japan,Motorcycles,MT-15,4,7372.49,29489.96
+138,2022-05-18,Europe,Audio Equipment,AV Receiver,12,755.72,9068.64
+139,2022-05-19,Asia-Pacific,Motorcycles,Guitar,13,4023.25,52302.25
+140,2022-05-20,North America,Musical Instruments,MT-15,12,10657.79,127893.48
+141,2022-05-21,Europe,Marine Products,MT-15,11,4016.53,44181.83
+142,2022-05-22,Asia-Pacific,Musical Instruments,Guitar,8,3083.96,24671.68
+143,2022-05-23,Asia-Pacific,Musical Instruments,Guitar,7,5113.72,35796.04
+144,2022-05-24,Europe,Musical Instruments,Piano,7,2804.26,19629.82
+145,2022-05-25,North America,Musical Instruments,Piano,1,2083.17,2083.17
+146,2022-05-26,North America,Audio Equipment,Piano,3,9090.8,27272.4
+147,2022-05-27,North America,Audio Equipment,AV Receiver,1,12205.24,12205.24
+148,2022-05-28,Japan,Motorcycles,Outboard Motor,1,5863.04,5863.04
+149,2022-05-29,India,Marine Products,Outboard Motor,12,1169.23,14030.76
+150,2022-05-30,North America,Audio Equipment,Outboard Motor,7,17691.19,123838.33
+151,2022-05-31,North America,Motorcycles,FZ-S,11,8947.88,98426.68
+152,2022-06-01,Europe,Marine Products,Piano,4,15824.22,63296.88
+153,2022-06-02,North America,Audio Equipment,MT-15,13,3565.41,46350.33
+154,2022-06-03,Asia-Pacific,Motorcycles,AV Receiver,7,11891.57,83240.99
+155,2022-06-04,Asia-Pacific,Musical Instruments,Outboard Motor,4,1259.54,5038.16
+156,2022-06-05,India,Motorcycles,Guitar,4,8017.33,32069.32
+157,2022-06-06,North America,Motorcycles,R15,14,16799.06,235186.84
+158,2022-06-07,North America,Audio Equipment,R15,3,16753.11,50259.33
+159,2022-06-08,India,Motorcycles,MT-15,11,1084.87,11933.57
+160,2022-06-09,Asia-Pacific,Musical Instruments,Outboard Motor,12,16596.24,199154.88
+161,2022-06-10,Europe,Audio Equipment,AV Receiver,3,14294.47,42883.41
+162,2022-06-11,Europe,Marine Products,Keyboard,7,3990.61,27934.27
+163,2022-06-12,Europe,Musical Instruments,AV Receiver,1,444.54,444.54
+164,2022-06-13,Europe,Marine Products,Piano,9,7725.52,69529.68
+165,2022-06-14,North America,Audio Equipment,Outboard Motor,7,4385.68,30699.76
+166,2022-06-15,Europe,Motorcycles,Guitar,3,1224.36,3673.08
+167,2022-06-16,Japan,Marine Products,AV Receiver,8,17038.5,136308.0
+168,2022-06-17,North America,Musical Instruments,Outboard Motor,12,10809.5,129714.0
+169,2022-06-18,Asia-Pacific,Marine Products,Outboard Motor,2,12723.74,25447.48
+170,2022-06-19,Europe,Marine Products,AV Receiver,7,17428.21,121997.47
+171,2022-06-20,India,Audio Equipment,Keyboard,12,2310.9,27730.8
+172,2022-06-21,North America,Audio Equipment,Guitar,11,6562.59,72188.49
+173,2022-06-22,Japan,Motorcycles,AV Receiver,2,1887.87,3775.74
+174,2022-06-23,North America,Marine Products,Keyboard,12,17251.43,207017.16
+175,2022-06-24,North America,Musical Instruments,AV Receiver,7,12380.24,86661.68
+176,2022-06-25,Japan,Audio Equipment,Guitar,7,4181.98,29273.86
+177,2022-06-26,Europe,Marine Products,R15,14,13713.41,191987.74
+178,2022-06-27,Europe,Musical Instruments,Keyboard,12,1854.52,22254.24
+179,2022-06-28,Asia-Pacific,Motorcycles,MT-15,7,17163.37,120143.59
+180,2022-06-29,India,Marine Products,Guitar,11,8714.9,95863.9
+181,2022-06-30,Europe,Audio Equipment,Keyboard,1,13761.87,13761.87
+182,2022-07-01,North America,Audio Equipment,Keyboard,9,8653.02,77877.18
+183,2022-07-02,North America,Audio Equipment,Outboard Motor,11,5567.5,61242.5
+184,2022-07-03,North America,Musical Instruments,Outboard Motor,6,14004.6,84027.6
+185,2022-07-04,Japan,Motorcycles,FZ-S,13,11771.77,153033.01
+186,2022-07-05,Europe,Audio Equipment,R15,12,7979.58,95754.96
+187,2022-07-06,India,Musical Instruments,Guitar,6,17724.56,106347.36
+188,2022-07-07,India,Musical Instruments,AV Receiver,11,6291.62,69207.82
+189,2022-07-08,North America,Audio Equipment,MT-15,4,4378.9,17515.6
+190,2022-07-09,Asia-Pacific,Marine Products,FZ-S,3,192.43,577.29
+191,2022-07-10,Japan,Audio Equipment,Piano,1,10198.19,10198.19
+192,2022-07-11,India,Musical Instruments,Keyboard,1,1713.67,1713.67
+193,2022-07-12,India,Motorcycles,FZ-S,1,10831.62,10831.62
+194,2022-07-13,North America,Motorcycles,R15,3,5897.49,17692.47
+195,2022-07-14,India,Audio Equipment,FZ-S,3,11941.14,35823.42
+196,2022-07-15,Europe,Marine Products,Keyboard,14,9708.7,135921.8
+197,2022-07-16,Europe,Marine Products,Outboard Motor,3,10688.75,32066.25
+198,2022-07-17,Europe,Marine Products,MT-15,7,14294.46,100061.22
+199,2022-07-18,Asia-Pacific,Audio Equipment,Guitar,6,17826.4,106958.4
+200,2022-07-19,Europe,Marine Products,Piano,4,369.32,1477.28
+201,2022-07-20,India,Musical Instruments,Keyboard,14,6005.55,84077.7
+202,2022-07-21,India,Marine Products,Piano,1,5779.45,5779.45
+203,2022-07-22,Japan,Audio Equipment,AV Receiver,10,7113.99,71139.9
+204,2022-07-23,North America,Audio Equipment,R15,7,14643.46,102504.22
+205,2022-07-24,Europe,Motorcycles,MT-15,6,15784.76,94708.56
+206,2022-07-25,Europe,Audio Equipment,R15,4,384.49,1537.96
+207,2022-07-26,India,Audio Equipment,Piano,1,13499.27,13499.27
+208,2022-07-27,India,Audio Equipment,R15,13,1139.12,14808.56
+209,2022-07-28,Japan,Motorcycles,Guitar,14,17005.53,238077.42
+210,2022-07-29,North America,Marine Products,R15,1,17903.98,17903.98
+211,2022-07-30,North America,Motorcycles,Outboard Motor,5,7760.5,38802.5
+212,2022-07-31,India,Audio Equipment,AV Receiver,13,11222.34,145890.42
+213,2022-08-01,Japan,Marine Products,FZ-S,6,12219.81,73318.86
+214,2022-08-02,Europe,Motorcycles,Keyboard,13,7035.33,91459.29
+215,2022-08-03,Europe,Audio Equipment,R15,11,1751.51,19266.61
+216,2022-08-04,Japan,Musical Instruments,Piano,9,11788.74,106098.66
+217,2022-08-05,India,Audio Equipment,Outboard Motor,7,6390.74,44735.18
+218,2022-08-06,North America,Audio Equipment,AV Receiver,7,209.67,1467.69
+219,2022-08-07,Europe,Audio Equipment,FZ-S,1,1013.22,1013.22
+220,2022-08-08,India,Musical Instruments,FZ-S,4,7076.99,28307.96
+221,2022-08-09,Japan,Motorcycles,FZ-S,3,711.33,2133.99
+222,2022-08-10,North America,Audio Equipment,Outboard Motor,9,2094.14,18847.26
+223,2022-08-11,Asia-Pacific,Marine Products,Keyboard,9,4636.09,41724.81
+224,2022-08-12,Asia-Pacific,Musical Instruments,R15,10,7773.76,77737.6
+225,2022-08-13,Europe,Audio Equipment,Guitar,3,3777.47,11332.41
+226,2022-08-14,North America,Marine Products,AV Receiver,1,8745.25,8745.25
+227,2022-08-15,Japan,Marine Products,AV Receiver,12,3015.12,36181.44
+228,2022-08-16,Japan,Marine Products,AV Receiver,4,3373.54,13494.16
+229,2022-08-17,Japan,Motorcycles,AV Receiver,6,17660.67,105964.02
+230,2022-08-18,India,Marine Products,Keyboard,2,10758.14,21516.28
+231,2022-08-19,Asia-Pacific,Audio Equipment,Keyboard,9,10524.66,94721.94
+232,2022-08-20,Asia-Pacific,Marine Products,AV Receiver,1,1452.1,1452.1
+233,2022-08-21,Asia-Pacific,Marine Products,Outboard Motor,3,3778.67,11336.01
+234,2022-08-22,Europe,Musical Instruments,Keyboard,5,11662.49,58312.45
+235,2022-08-23,India,Audio Equipment,FZ-S,14,15291.21,214076.94
+236,2022-08-24,Asia-Pacific,Musical Instruments,AV Receiver,13,14704.99,191164.87
+237,2022-08-25,India,Motorcycles,AV Receiver,6,13973.93,83843.58
+238,2022-08-26,India,Audio Equipment,Guitar,10,11460.09,114600.9
+239,2022-08-27,Asia-Pacific,Motorcycles,FZ-S,11,596.12,6557.32
+240,2022-08-28,India,Marine Products,FZ-S,8,10190.89,81527.12
+241,2022-08-29,India,Marine Products,Piano,3,495.08,1485.24
+242,2022-08-30,Europe,Marine Products,AV Receiver,8,8947.18,71577.44
+243,2022-08-31,India,Marine Products,Keyboard,9,4940.55,44464.95
+244,2022-09-01,India,Motorcycles,Keyboard,8,16694.76,133558.08
+245,2022-09-02,Asia-Pacific,Audio Equipment,AV Receiver,9,9292.83,83635.47
+246,2022-09-03,Asia-Pacific,Motorcycles,Outboard Motor,12,5263.0,63156.0
+247,2022-09-04,North America,Marine Products,MT-15,14,3191.6,44682.4
+248,2022-09-05,Asia-Pacific,Audio Equipment,Outboard Motor,1,10283.9,10283.9
+249,2022-09-06,India,Musical Instruments,Outboard Motor,4,9724.05,38896.2
+250,2022-09-07,India,Motorcycles,Guitar,4,4051.4,16205.6
+251,2022-09-08,North America,Audio Equipment,MT-15,1,2744.44,2744.44
+252,2022-09-09,India,Motorcycles,Outboard Motor,8,1665.49,13323.92
+253,2022-09-10,Asia-Pacific,Marine Products,AV Receiver,1,13832.06,13832.06
+254,2022-09-11,North America,Musical Instruments,R15,6,3100.24,18601.44
+255,2022-09-12,North America,Musical Instruments,MT-15,9,4509.92,40589.28
+256,2022-09-13,Europe,Audio Equipment,FZ-S,5,3028.28,15141.4
+257,2022-09-14,Asia-Pacific,Musical Instruments,MT-15,10,16417.55,164175.5
+258,2022-09-15,Japan,Audio Equipment,AV Receiver,8,11273.67,90189.36
+259,2022-09-16,India,Marine Products,Guitar,3,5503.68,16511.04
+260,2022-09-17,Japan,Musical Instruments,Piano,9,1067.1,9603.9
+261,2022-09-18,Europe,Motorcycles,Keyboard,13,5595.1,72736.3
+262,2022-09-19,India,Audio Equipment,R15,1,5588.53,5588.53
+263,2022-09-20,North America,Audio Equipment,FZ-S,3,1098.56,3295.68
+264,2022-09-21,Asia-Pacific,Motorcycles,R15,4,3683.52,14734.08
+265,2022-09-22,Europe,Motorcycles,Outboard Motor,7,12508.07,87556.49
+266,2022-09-23,Europe,Audio Equipment,MT-15,5,6857.14,34285.7
+267,2022-09-24,North America,Marine Products,Outboard Motor,10,12207.43,122074.3
+268,2022-09-25,Europe,Musical Instruments,R15,4,9117.72,36470.88
+269,2022-09-26,Europe,Audio Equipment,AV Receiver,5,9485.2,47426.0
+270,2022-09-27,Asia-Pacific,Motorcycles,Guitar,6,9665.13,57990.78
+271,2022-09-28,North America,Audio Equipment,AV Receiver,5,11966.7,59833.5
+272,2022-09-29,Japan,Motorcycles,FZ-S,9,17643.12,158788.08
+273,2022-09-30,Japan,Marine Products,Piano,10,1609.91,16099.1
+274,2022-10-01,Japan,Motorcycles,Keyboard,9,11251.82,101266.38
+275,2022-10-02,North America,Audio Equipment,MT-15,14,5847.28,81861.92
+276,2022-10-03,Japan,Musical Instruments,AV Receiver,8,12016.87,96134.96
+277,2022-10-04,India,Motorcycles,R15,11,14866.75,163534.25
+278,2022-10-05,India,Musical Instruments,Outboard Motor,14,889.79,12457.06
+279,2022-10-06,Japan,Audio Equipment,FZ-S,12,6598.81,79185.72
+280,2022-10-07,India,Motorcycles,MT-15,9,16110.38,144993.42
+281,2022-10-08,North America,Motorcycles,FZ-S,8,6342.76,50742.08
+282,2022-10-09,Asia-Pacific,Marine Products,Outboard Motor,3,880.1,2640.3
+283,2022-10-10,Asia-Pacific,Musical Instruments,Outboard Motor,11,12104.25,133146.75
+284,2022-10-11,North America,Audio Equipment,MT-15,14,7108.19,99514.66
+285,2022-10-12,Europe,Musical Instruments,Piano,14,13703.12,191843.68
+286,2022-10-13,India,Marine Products,Keyboard,7,1881.88,13173.16
+287,2022-10-14,Asia-Pacific,Musical Instruments,Outboard Motor,14,15481.24,216737.36
+288,2022-10-15,North America,Audio Equipment,Piano,13,7774.27,101065.51
+289,2022-10-16,North America,Marine Products,FZ-S,9,16703.7,150333.3
+290,2022-10-17,Europe,Marine Products,Piano,6,11323.13,67938.78
+291,2022-10-18,Japan,Audio Equipment,Guitar,9,5803.55,52231.95
+292,2022-10-19,Asia-Pacific,Audio Equipment,MT-15,10,1633.22,16332.2
+293,2022-10-20,Asia-Pacific,Motorcycles,Keyboard,9,4414.25,39728.25
+294,2022-10-21,Japan,Audio Equipment,Guitar,10,17824.25,178242.5
+295,2022-10-22,India,Musical Instruments,AV Receiver,7,6305.22,44136.54
+296,2022-10-23,Japan,Musical Instruments,FZ-S,12,14993.72,179924.64
+297,2022-10-24,North America,Audio Equipment,FZ-S,11,3333.18,36664.98
+298,2022-10-25,Asia-Pacific,Audio Equipment,AV Receiver,10,2962.49,29624.9
+299,2022-10-26,Japan,Motorcycles,Piano,3,14693.68,44081.04
+300,2022-10-27,North America,Audio Equipment,Outboard Motor,8,8180.02,65440.16
+301,2022-10-28,Europe,Musical Instruments,R15,3,4311.77,12935.31
+302,2022-10-29,Japan,Marine Products,Keyboard,1,4771.98,4771.98
+303,2022-10-30,Europe,Musical Instruments,Piano,2,6543.92,13087.84
+304,2022-10-31,India,Musical Instruments,MT-15,4,4492.22,17968.88
+305,2022-11-01,North America,Motorcycles,FZ-S,9,16668.64,150017.76
+306,2022-11-02,India,Audio Equipment,Guitar,7,15627.02,109389.14
+307,2022-11-03,India,Motorcycles,Piano,10,11151.48,111514.8
+308,2022-11-04,Europe,Marine Products,MT-15,11,15784.4,173628.4
+309,2022-11-05,Asia-Pacific,Musical Instruments,Outboard Motor,14,7996.19,111946.66
+310,2022-11-06,India,Motorcycles,Outboard Motor,14,2440.43,34166.02
+311,2022-11-07,Asia-Pacific,Motorcycles,Piano,12,17502.79,210033.48
+312,2022-11-08,India,Musical Instruments,Keyboard,10,8273.71,82737.1
+313,2022-11-09,North America,Marine Products,AV Receiver,2,16759.32,33518.64
+314,2022-11-10,Japan,Audio Equipment,R15,6,12833.6,77001.6
+315,2022-11-11,North America,Motorcycles,Outboard Motor,5,15419.15,77095.75
+316,2022-11-12,India,Motorcycles,Piano,12,341.38,4096.56
+317,2022-11-13,Japan,Marine Products,FZ-S,1,16948.34,16948.34
+318,2022-11-14,India,Audio Equipment,Piano,14,10198.86,142784.04
+319,2022-11-15,Asia-Pacific,Musical Instruments,MT-15,4,15900.27,63601.08
+320,2022-11-16,Japan,Motorcycles,R15,12,6350.82,76209.84
+321,2022-11-17,Asia-Pacific,Audio Equipment,Piano,3,2459.45,7378.35
+322,2022-11-18,North America,Marine Products,Keyboard,6,16168.95,97013.7
+323,2022-11-19,Asia-Pacific,Audio Equipment,FZ-S,1,3695.24,3695.24
+324,2022-11-20,India,Marine Products,Piano,1,3604.09,3604.09
+325,2022-11-21,North America,Audio Equipment,Piano,9,9990.4,89913.6
+326,2022-11-22,Europe,Marine Products,Guitar,13,3798.01,49374.13
+327,2022-11-23,Japan,Motorcycles,FZ-S,4,660.81,2643.24
+328,2022-11-24,Europe,Musical Instruments,Keyboard,6,6194.72,37168.32
+329,2022-11-25,Europe,Musical Instruments,R15,1,13298.41,13298.41
+330,2022-11-26,Europe,Motorcycles,Piano,11,11821.06,130031.66
+331,2022-11-27,India,Musical Instruments,Keyboard,13,17693.08,230010.04
+332,2022-11-28,North America,Marine Products,R15,9,12610.02,113490.18
+333,2022-11-29,North America,Motorcycles,Guitar,1,7953.23,7953.23
+334,2022-11-30,Asia-Pacific,Audio Equipment,Outboard Motor,9,12882.36,115941.24
+335,2022-12-01,Japan,Motorcycles,FZ-S,7,16096.92,112678.44
+336,2022-12-02,North America,Motorcycles,Piano,9,5551.34,49962.06
+337,2022-12-03,North America,Marine Products,Outboard Motor,13,5504.36,71556.68
+338,2022-12-04,Japan,Marine Products,Outboard Motor,11,13012.55,143138.05
+339,2022-12-05,Europe,Musical Instruments,MT-15,13,13479.46,175232.98
+340,2022-12-06,Japan,Audio Equipment,Outboard Motor,10,13609.78,136097.8
+341,2022-12-07,Europe,Motorcycles,Keyboard,1,5790.64,5790.64
+342,2022-12-08,North America,Musical Instruments,Guitar,11,15494.04,170434.44
+343,2022-12-09,Asia-Pacific,Musical Instruments,Outboard Motor,8,10663.15,85305.2
+344,2022-12-10,North America,Marine Products,Keyboard,12,15095.39,181144.68
+345,2022-12-11,North America,Marine Products,Outboard Motor,7,14965.53,104758.71
+346,2022-12-12,Asia-Pacific,Marine Products,R15,10,4793.83,47938.3
+347,2022-12-13,Japan,Musical Instruments,FZ-S,4,15622.11,62488.44
+348,2022-12-14,Japan,Audio Equipment,Piano,11,15469.71,170166.81
+349,2022-12-15,Japan,Audio Equipment,Guitar,14,17185.72,240600.08
+350,2022-12-16,India,Audio Equipment,R15,1,1512.19,1512.19
+351,2022-12-17,Asia-Pacific,Musical Instruments,AV Receiver,8,6892.74,55141.92
+352,2022-12-18,Asia-Pacific,Marine Products,Keyboard,9,12515.72,112641.48
+353,2022-12-19,North America,Audio Equipment,FZ-S,11,15916.06,175076.66
+354,2022-12-20,India,Audio Equipment,MT-15,3,13279.59,39838.77
+355,2022-12-21,Europe,Motorcycles,Piano,14,5290.58,74068.12
+356,2022-12-22,Europe,Marine Products,Piano,11,11990.7,131897.7
+357,2022-12-23,Japan,Marine Products,Piano,2,9356.25,18712.5
+358,2022-12-24,Japan,Musical Instruments,FZ-S,9,7585.52,68269.68
+359,2022-12-25,Japan,Audio Equipment,Outboard Motor,13,7274.77,94572.01
+360,2022-12-26,Asia-Pacific,Motorcycles,R15,7,10684.29,74790.03
+361,2022-12-27,Europe,Audio Equipment,Piano,8,1881.37,15050.96
+362,2022-12-28,Europe,Musical Instruments,R15,1,7485.17,7485.17
+363,2022-12-29,Japan,Motorcycles,FZ-S,1,3434.68,3434.68
+364,2022-12-30,North America,Audio Equipment,Piano,2,8410.43,16820.86
+365,2022-12-31,North America,Musical Instruments,Keyboard,4,12131.62,48526.48
+366,2023-01-01,India,Musical Instruments,R15,7,3841.91,26893.37
+367,2023-01-02,Asia-Pacific,Motorcycles,Keyboard,4,10305.93,41223.72
+368,2023-01-03,North America,Marine Products,MT-15,12,14950.27,179403.24
+369,2023-01-04,Europe,Audio Equipment,AV Receiver,10,8489.43,84894.3
+370,2023-01-05,Europe,Motorcycles,AV Receiver,5,9185.12,45925.6
+371,2023-01-06,India,Motorcycles,R15,10,9650.0,96500.0
+372,2023-01-07,India,Motorcycles,Guitar,5,16602.4,83012.0
+373,2023-01-08,India,Musical Instruments,Piano,14,2188.06,30632.84
+374,2023-01-09,North America,Audio Equipment,R15,2,12691.05,25382.1
+375,2023-01-10,India,Audio Equipment,AV Receiver,12,9815.73,117788.76
+376,2023-01-11,North America,Marine Products,Piano,9,3538.75,31848.75
+377,2023-01-12,Asia-Pacific,Audio Equipment,R15,9,3399.99,30599.91
+378,2023-01-13,Europe,Motorcycles,R15,4,14601.04,58404.16
+379,2023-01-14,Japan,Musical Instruments,Keyboard,6,11994.01,71964.06
+380,2023-01-15,Europe,Musical Instruments,MT-15,4,1970.17,7880.68
+381,2023-01-16,Europe,Musical Instruments,R15,7,1370.1,9590.7
+382,2023-01-17,Japan,Marine Products,Outboard Motor,11,10855.21,119407.31
+383,2023-01-18,Japan,Audio Equipment,Outboard Motor,9,4470.24,40232.16
+384,2023-01-19,Europe,Audio Equipment,Piano,13,9968.98,129596.74
+385,2023-01-20,Japan,Marine Products,MT-15,9,8076.33,72686.97
+386,2023-01-21,Asia-Pacific,Motorcycles,AV Receiver,1,3988.21,3988.21
+387,2023-01-22,North America,Marine Products,Guitar,5,17663.66,88318.3
+388,2023-01-23,North America,Marine Products,Keyboard,6,13506.45,81038.7
+389,2023-01-24,India,Marine Products,Guitar,4,5405.5,21622.0
+390,2023-01-25,India,Marine Products,Outboard Motor,9,1786.38,16077.42
+391,2023-01-26,Asia-Pacific,Audio Equipment,Outboard Motor,5,11389.42,56947.1
+392,2023-01-27,North America,Musical Instruments,AV Receiver,4,6054.48,24217.92
+393,2023-01-28,North America,Marine Products,FZ-S,11,16878.47,185663.17
+394,2023-01-29,Asia-Pacific,Marine Products,Outboard Motor,12,1683.48,20201.76
+395,2023-01-30,North America,Audio Equipment,MT-15,6,4541.4,27248.4
+396,2023-01-31,India,Motorcycles,Keyboard,6,2519.88,15119.28
+397,2023-02-01,Asia-Pacific,Audio Equipment,MT-15,5,1313.37,6566.85
+398,2023-02-02,India,Audio Equipment,Piano,2,6222.54,12445.08
+399,2023-02-03,Europe,Marine Products,Piano,10,11394.49,113944.9
+400,2023-02-04,Japan,Marine Products,AV Receiver,3,10396.23,31188.69
+401,2023-02-05,Japan,Musical Instruments,R15,14,14988.83,209843.62
+402,2023-02-06,Europe,Marine Products,FZ-S,10,8794.18,87941.8
+403,2023-02-07,Europe,Motorcycles,R15,2,2276.8,4553.6
+404,2023-02-08,Japan,Marine Products,Outboard Motor,7,17395.41,121767.87
+405,2023-02-09,North America,Marine Products,Piano,9,15510.6,139595.4
+406,2023-02-10,Europe,Motorcycles,R15,8,10441.59,83532.72
+407,2023-02-11,North America,Marine Products,AV Receiver,1,13829.28,13829.28
+408,2023-02-12,India,Audio Equipment,Outboard Motor,14,16398.97,229585.58
+409,2023-02-13,Japan,Marine Products,AV Receiver,12,5202.77,62433.24
+410,2023-02-14,Japan,Marine Products,Outboard Motor,4,14740.75,58963.0
+411,2023-02-15,North America,Marine Products,MT-15,5,3391.32,16956.6
+412,2023-02-16,India,Marine Products,MT-15,14,7808.39,109317.46
+413,2023-02-17,India,Marine Products,Keyboard,4,14509.27,58037.08
+414,2023-02-18,North America,Motorcycles,Keyboard,8,13576.59,108612.72
+415,2023-02-19,North America,Motorcycles,R15,9,13447.45,121027.05
+416,2023-02-20,Asia-Pacific,Marine Products,MT-15,9,7721.9,69497.1
+417,2023-02-21,Japan,Audio Equipment,R15,11,12172.93,133902.23
+418,2023-02-22,Asia-Pacific,Motorcycles,Outboard Motor,8,7358.46,58867.68
+419,2023-02-23,India,Audio Equipment,Piano,9,6965.04,62685.36
+420,2023-02-24,India,Marine Products,Keyboard,14,584.95,8189.3
+421,2023-02-25,North America,Musical Instruments,Keyboard,12,9493.63,113923.56
+422,2023-02-26,North America,Musical Instruments,FZ-S,10,16314.53,163145.3
+423,2023-02-27,India,Audio Equipment,FZ-S,14,2996.06,41944.84
+424,2023-02-28,Europe,Musical Instruments,Keyboard,13,2375.3,30878.9
+425,2023-03-01,India,Marine Products,Guitar,11,15314.85,168463.35
+426,2023-03-02,Asia-Pacific,Marine Products,MT-15,1,16049.74,16049.74
+427,2023-03-03,Japan,Motorcycles,Guitar,13,15313.52,199075.76
+428,2023-03-04,Asia-Pacific,Audio Equipment,Guitar,3,17892.47,53677.41
+429,2023-03-05,Europe,Motorcycles,Keyboard,11,6995.21,76947.31
+430,2023-03-06,Japan,Audio Equipment,Guitar,10,15774.8,157748.0
+431,2023-03-07,Asia-Pacific,Marine Products,MT-15,14,12528.42,175397.88
+432,2023-03-08,India,Marine Products,Keyboard,3,11898.59,35695.77
+433,2023-03-09,Asia-Pacific,Musical Instruments,Outboard Motor,2,10659.03,21318.06
+434,2023-03-10,India,Musical Instruments,FZ-S,13,10630.72,138199.36
+435,2023-03-11,Asia-Pacific,Musical Instruments,Guitar,1,5448.17,5448.17
+436,2023-03-12,Japan,Audio Equipment,R15,7,16688.27,116817.89
+437,2023-03-13,Asia-Pacific,Motorcycles,Piano,11,5291.37,58205.07
+438,2023-03-14,India,Musical Instruments,Keyboard,14,11951.76,167324.64
+439,2023-03-15,India,Marine Products,Outboard Motor,9,15366.5,138298.5
+440,2023-03-16,India,Musical Instruments,AV Receiver,12,12238.56,146862.72
+441,2023-03-17,India,Marine Products,R15,4,9897.73,39590.92
+442,2023-03-18,Asia-Pacific,Musical Instruments,Guitar,1,8405.29,8405.29
+443,2023-03-19,India,Audio Equipment,Guitar,6,8101.3,48607.8
+444,2023-03-20,North America,Audio Equipment,Outboard Motor,14,3244.12,45417.68
+445,2023-03-21,Japan,Marine Products,R15,12,5670.18,68042.16
+446,2023-03-22,North America,Motorcycles,AV Receiver,5,4141.63,20708.15
+447,2023-03-23,Europe,Motorcycles,Outboard Motor,1,14183.58,14183.58
+448,2023-03-24,North America,Marine Products,MT-15,11,1901.22,20913.42
+449,2023-03-25,Japan,Motorcycles,Outboard Motor,7,5653.41,39573.87
+450,2023-03-26,Europe,Motorcycles,Keyboard,12,6155.16,73861.92
+451,2023-03-27,Europe,Audio Equipment,Piano,11,12625.44,138879.84
+452,2023-03-28,India,Motorcycles,Piano,8,5781.66,46253.28
+453,2023-03-29,Europe,Musical Instruments,Piano,13,17670.54,229717.02
+454,2023-03-30,Asia-Pacific,Marine Products,Guitar,10,6016.93,60169.3
+455,2023-03-31,India,Motorcycles,Outboard Motor,9,9294.51,83650.59
+456,2023-04-01,Japan,Audio Equipment,Piano,14,13338.36,186737.04
+457,2023-04-02,Asia-Pacific,Motorcycles,Piano,6,14206.17,85237.02
+458,2023-04-03,Asia-Pacific,Musical Instruments,Outboard Motor,4,11221.11,44884.44
+459,2023-04-04,Europe,Audio Equipment,AV Receiver,9,5199.44,46794.96
+460,2023-04-05,India,Audio Equipment,AV Receiver,8,9313.76,74510.08
+461,2023-04-06,Asia-Pacific,Musical Instruments,Keyboard,8,6211.78,49694.24
+462,2023-04-07,Europe,Audio Equipment,Guitar,9,4956.74,44610.66
+463,2023-04-08,Europe,Musical Instruments,FZ-S,14,12938.56,181139.84
+464,2023-04-09,Asia-Pacific,Marine Products,R15,2,1665.19,3330.38
+465,2023-04-10,Europe,Marine Products,R15,4,8030.56,32122.24
+466,2023-04-11,Europe,Motorcycles,Guitar,12,8334.97,100019.64
+467,2023-04-12,Asia-Pacific,Motorcycles,Guitar,9,1755.15,15796.35
+468,2023-04-13,Asia-Pacific,Motorcycles,Piano,1,7632.33,7632.33
+469,2023-04-14,North America,Motorcycles,Outboard Motor,6,12931.44,77588.64
+470,2023-04-15,Asia-Pacific,Motorcycles,FZ-S,2,16657.14,33314.28
+471,2023-04-16,India,Musical Instruments,Keyboard,8,12297.82,98382.56
+472,2023-04-17,Europe,Musical Instruments,FZ-S,10,2742.25,27422.5
+473,2023-04-18,Asia-Pacific,Musical Instruments,FZ-S,6,6981.21,41887.26
+474,2023-04-19,Europe,Musical Instruments,Keyboard,5,10080.74,50403.7
+475,2023-04-20,India,Musical Instruments,Keyboard,12,1349.02,16188.24
+476,2023-04-21,Japan,Marine Products,Keyboard,12,3096.7,37160.4
+477,2023-04-22,India,Audio Equipment,Keyboard,9,5978.49,53806.41
+478,2023-04-23,Europe,Musical Instruments,R15,1,15268.51,15268.51
+479,2023-04-24,North America,Audio Equipment,Keyboard,13,2268.31,29488.03
+480,2023-04-25,India,Musical Instruments,AV Receiver,10,11401.61,114016.1
+481,2023-04-26,Europe,Marine Products,FZ-S,6,14623.0,87738.0
+482,2023-04-27,India,Audio Equipment,Guitar,9,1834.61,16511.49
+483,2023-04-28,Europe,Marine Products,Keyboard,5,14794.72,73973.6
+484,2023-04-29,India,Motorcycles,AV Receiver,13,10850.21,141052.73
+485,2023-04-30,India,Audio Equipment,Guitar,9,10596.85,95371.65
+486,2023-05-01,Asia-Pacific,Audio Equipment,R15,12,2620.16,31441.92
+487,2023-05-02,India,Musical Instruments,Outboard Motor,10,15584.79,155847.9
+488,2023-05-03,North America,Musical Instruments,R15,4,15025.26,60101.04
+489,2023-05-04,North America,Marine Products,Keyboard,8,17471.46,139771.68
+490,2023-05-05,Europe,Audio Equipment,Outboard Motor,1,8900.41,8900.41
+491,2023-05-06,Asia-Pacific,Marine Products,Outboard Motor,13,6014.67,78190.71
+492,2023-05-07,Europe,Marine Products,Piano,8,1908.66,15269.28
+493,2023-05-08,India,Motorcycles,R15,3,6231.6,18694.8
+494,2023-05-09,India,Motorcycles,FZ-S,9,13990.67,125916.03
+495,2023-05-10,Japan,Marine Products,Keyboard,12,8928.58,107142.96
+496,2023-05-11,Europe,Marine Products,Piano,11,9346.65,102813.15
+497,2023-05-12,Japan,Motorcycles,Guitar,7,9667.88,67675.16
+498,2023-05-13,North America,Musical Instruments,FZ-S,5,8090.39,40451.95
+499,2023-05-14,Japan,Musical Instruments,FZ-S,9,3983.98,35855.82
+500,2023-05-15,Europe,Motorcycles,AV Receiver,2,7492.82,14985.64
+501,2023-05-16,India,Audio Equipment,FZ-S,7,13741.84,96192.88
+502,2023-05-17,North America,Musical Instruments,FZ-S,14,11418.04,159852.56
+503,2023-05-18,India,Marine Products,Keyboard,5,14056.81,70284.05
+504,2023-05-19,Europe,Motorcycles,Piano,1,6241.44,6241.44
+505,2023-05-20,Europe,Musical Instruments,Guitar,7,14723.5,103064.5
+506,2023-05-21,India,Motorcycles,Guitar,13,3943.93,51271.09
+507,2023-05-22,North America,Musical Instruments,MT-15,9,17730.99,159578.91
+508,2023-05-23,North America,Marine Products,Piano,6,10400.1,62400.6
+509,2023-05-24,Asia-Pacific,Audio Equipment,Outboard Motor,8,13715.66,109725.28
+510,2023-05-25,North America,Audio Equipment,R15,7,5422.6,37958.2
+511,2023-05-26,Japan,Motorcycles,R15,8,17017.05,136136.4
+512,2023-05-27,Europe,Marine Products,Keyboard,13,8800.52,114406.76
+513,2023-05-28,Europe,Audio Equipment,FZ-S,6,8468.85,50813.1
+514,2023-05-29,Asia-Pacific,Marine Products,Piano,14,9013.3,126186.2
+515,2023-05-30,India,Musical Instruments,MT-15,6,10325.31,61951.86
+516,2023-05-31,Japan,Marine Products,AV Receiver,2,17353.08,34706.16
+517,2023-06-01,Japan,Audio Equipment,Guitar,7,8965.3,62757.1
+518,2023-06-02,North America,Musical Instruments,Keyboard,8,16962.18,135697.44
+519,2023-06-03,Japan,Musical Instruments,R15,1,1662.52,1662.52
+520,2023-06-04,Japan,Musical Instruments,FZ-S,4,17143.87,68575.48
+521,2023-06-05,North America,Motorcycles,Piano,10,3525.33,35253.3
+522,2023-06-06,Japan,Marine Products,Guitar,2,5442.17,10884.34
+523,2023-06-07,North America,Musical Instruments,Keyboard,8,11546.94,92375.52
+524,2023-06-08,Japan,Motorcycles,Piano,13,6348.4,82529.2
+525,2023-06-09,Asia-Pacific,Audio Equipment,MT-15,7,9767.64,68373.48
+526,2023-06-10,Europe,Audio Equipment,R15,2,5070.6,10141.2
+527,2023-06-11,Asia-Pacific,Musical Instruments,MT-15,9,7933.8,71404.2
+528,2023-06-12,Japan,Motorcycles,MT-15,8,1074.55,8596.4
+529,2023-06-13,Europe,Musical Instruments,Outboard Motor,11,557.19,6129.09
+530,2023-06-14,Asia-Pacific,Musical Instruments,Keyboard,11,4391.32,48304.52
+531,2023-06-15,Japan,Audio Equipment,AV Receiver,13,6757.91,87852.83
+532,2023-06-16,North America,Motorcycles,AV Receiver,5,12632.58,63162.9
+533,2023-06-17,North America,Motorcycles,MT-15,10,11388.66,113886.6
+534,2023-06-18,Europe,Marine Products,AV Receiver,1,15870.4,15870.4
+535,2023-06-19,Europe,Marine Products,MT-15,5,7358.15,36790.75
+536,2023-06-20,North America,Motorcycles,Guitar,5,10246.94,51234.7
+537,2023-06-21,North America,Motorcycles,AV Receiver,13,12465.03,162045.39
+538,2023-06-22,Asia-Pacific,Motorcycles,Piano,5,8343.68,41718.4
+539,2023-06-23,Asia-Pacific,Musical Instruments,Piano,13,9127.25,118654.25
+540,2023-06-24,Asia-Pacific,Musical Instruments,R15,8,2210.22,17681.76
+541,2023-06-25,Japan,Motorcycles,Guitar,2,4686.29,9372.58
+542,2023-06-26,Europe,Motorcycles,Guitar,12,8136.99,97643.88
+543,2023-06-27,Japan,Marine Products,Outboard Motor,2,6814.17,13628.34
+544,2023-06-28,India,Motorcycles,Piano,5,12776.81,63884.05
+545,2023-06-29,Europe,Motorcycles,AV Receiver,5,11265.09,56325.45
+546,2023-06-30,Asia-Pacific,Musical Instruments,R15,12,492.77,5913.24
+547,2023-07-01,Japan,Audio Equipment,FZ-S,11,12045.63,132501.93
+548,2023-07-02,India,Marine Products,AV Receiver,10,7046.96,70469.6
+549,2023-07-03,North America,Motorcycles,MT-15,6,2994.77,17968.62
+550,2023-07-04,Japan,Audio Equipment,Outboard Motor,10,8248.52,82485.2
+551,2023-07-05,India,Motorcycles,FZ-S,6,17845.56,107073.36
+552,2023-07-06,North America,Marine Products,Piano,1,10313.23,10313.23
+553,2023-07-07,India,Audio Equipment,AV Receiver,6,9782.08,58692.48
+554,2023-07-08,Europe,Marine Products,Keyboard,5,6065.94,30329.7
+555,2023-07-09,Japan,Musical Instruments,MT-15,3,5715.97,17147.91
+556,2023-07-10,Europe,Musical Instruments,Guitar,8,2089.22,16713.76
+557,2023-07-11,Japan,Motorcycles,MT-15,14,17374.36,243241.04
+558,2023-07-12,North America,Musical Instruments,AV Receiver,2,12726.72,25453.44
+559,2023-07-13,Asia-Pacific,Musical Instruments,Guitar,5,17924.19,89620.95
+560,2023-07-14,Asia-Pacific,Audio Equipment,Piano,2,11624.23,23248.46
+561,2023-07-15,Japan,Audio Equipment,Piano,8,2037.53,16300.24
+562,2023-07-16,India,Audio Equipment,AV Receiver,13,8559.35,111271.55
+563,2023-07-17,Japan,Musical Instruments,Guitar,6,3788.05,22728.3
+564,2023-07-18,India,Motorcycles,R15,6,3588.57,21531.42
+565,2023-07-19,Asia-Pacific,Musical Instruments,Outboard Motor,7,12122.64,84858.48
+566,2023-07-20,Europe,Marine Products,FZ-S,5,9807.87,49039.35
+567,2023-07-21,Asia-Pacific,Musical Instruments,Outboard Motor,12,12432.39,149188.68
+568,2023-07-22,Asia-Pacific,Audio Equipment,Piano,12,11740.51,140886.12
+569,2023-07-23,Japan,Audio Equipment,MT-15,14,7426.52,103971.28
+570,2023-07-24,North America,Musical Instruments,AV Receiver,13,3071.9,39934.7
+571,2023-07-25,Asia-Pacific,Audio Equipment,R15,9,4265.3,38387.7
+572,2023-07-26,Europe,Motorcycles,R15,10,11117.34,111173.4
+573,2023-07-27,Japan,Musical Instruments,Guitar,3,11169.37,33508.11
+574,2023-07-28,North America,Audio Equipment,Keyboard,6,10711.66,64269.96
+575,2023-07-29,North America,Audio Equipment,FZ-S,2,12191.5,24383.0
+576,2023-07-30,North America,Audio Equipment,MT-15,13,13500.02,175500.26
+577,2023-07-31,Japan,Marine Products,FZ-S,5,4977.59,24887.95
+578,2023-08-01,Japan,Musical Instruments,AV Receiver,3,17414.18,52242.54
+579,2023-08-02,Europe,Audio Equipment,MT-15,5,13559.25,67796.25
+580,2023-08-03,India,Motorcycles,MT-15,13,13915.82,180905.66
+581,2023-08-04,India,Audio Equipment,AV Receiver,7,4734.77,33143.39
+582,2023-08-05,India,Musical Instruments,AV Receiver,14,12414.12,173797.68
+583,2023-08-06,Europe,Musical Instruments,AV Receiver,12,8901.56,106818.72
+584,2023-08-07,India,Musical Instruments,Piano,1,5593.79,5593.79
+585,2023-08-08,Asia-Pacific,Musical Instruments,Keyboard,3,7617.31,22851.93
+586,2023-08-09,Asia-Pacific,Marine Products,Piano,12,5386.1,64633.2
+587,2023-08-10,Japan,Audio Equipment,Piano,13,13672.39,177741.07
+588,2023-08-11,Asia-Pacific,Musical Instruments,Piano,12,15751.86,189022.32
+589,2023-08-12,India,Marine Products,Piano,13,7102.89,92337.57
+590,2023-08-13,India,Marine Products,Keyboard,1,9579.29,9579.29
+591,2023-08-14,North America,Audio Equipment,Piano,7,405.48,2838.36
+592,2023-08-15,Europe,Audio Equipment,AV Receiver,6,17860.31,107161.86
+593,2023-08-16,North America,Musical Instruments,Guitar,12,756.07,9072.84
+594,2023-08-17,North America,Motorcycles,R15,10,8146.1,81461.0
+595,2023-08-18,Asia-Pacific,Audio Equipment,Guitar,6,5857.04,35142.24
+596,2023-08-19,Japan,Audio Equipment,Keyboard,12,3645.99,43751.88
+597,2023-08-20,Asia-Pacific,Motorcycles,Outboard Motor,9,9405.32,84647.88
+598,2023-08-21,Japan,Motorcycles,Piano,13,16282.51,211672.63
+599,2023-08-22,Europe,Marine Products,MT-15,5,7804.51,39022.55
+600,2023-08-23,Japan,Marine Products,R15,6,13689.28,82135.68
+601,2023-08-24,Asia-Pacific,Musical Instruments,Keyboard,1,15016.84,15016.84
+602,2023-08-25,Europe,Audio Equipment,AV Receiver,9,12526.16,112735.44
+603,2023-08-26,Asia-Pacific,Motorcycles,FZ-S,2,6433.48,12866.96
+604,2023-08-27,Asia-Pacific,Marine Products,Outboard Motor,2,1521.52,3043.04
+605,2023-08-28,India,Motorcycles,Keyboard,12,4234.42,50813.04
+606,2023-08-29,Japan,Musical Instruments,R15,1,386.54,386.54
+607,2023-08-30,Asia-Pacific,Musical Instruments,R15,9,1019.95,9179.55
+608,2023-08-31,Europe,Audio Equipment,FZ-S,6,5816.05,34896.3
+609,2023-09-01,Japan,Marine Products,Guitar,5,17466.58,87332.9
+610,2023-09-02,North America,Audio Equipment,MT-15,8,17783.53,142268.24
+611,2023-09-03,North America,Marine Products,MT-15,5,5443.63,27218.15
+612,2023-09-04,Japan,Motorcycles,AV Receiver,11,13212.63,145338.93
+613,2023-09-05,Japan,Musical Instruments,R15,11,10718.0,117898.0
+614,2023-09-06,Japan,Musical Instruments,MT-15,5,5231.49,26157.45
+615,2023-09-07,India,Marine Products,MT-15,1,16487.95,16487.95
+616,2023-09-08,Japan,Audio Equipment,Keyboard,3,13286.9,39860.7
+617,2023-09-09,Asia-Pacific,Motorcycles,AV Receiver,2,13794.83,27589.66
+618,2023-09-10,Japan,Motorcycles,R15,6,16060.21,96361.26
+619,2023-09-11,Asia-Pacific,Musical Instruments,Keyboard,6,13101.12,78606.72
+620,2023-09-12,North America,Motorcycles,AV Receiver,7,5631.6,39421.2
+621,2023-09-13,Japan,Marine Products,Outboard Motor,2,12947.86,25895.72
+622,2023-09-14,North America,Musical Instruments,R15,12,2635.44,31625.28
+623,2023-09-15,Japan,Musical Instruments,Guitar,9,16200.94,145808.46
+624,2023-09-16,Asia-Pacific,Musical Instruments,MT-15,12,14202.91,170434.92
+625,2023-09-17,India,Audio Equipment,Outboard Motor,3,3774.01,11322.03
+626,2023-09-18,Asia-Pacific,Audio Equipment,AV Receiver,13,3932.37,51120.81
+627,2023-09-19,North America,Motorcycles,Piano,12,9353.66,112243.92
+628,2023-09-20,India,Marine Products,MT-15,5,11352.5,56762.5
+629,2023-09-21,India,Marine Products,AV Receiver,11,3558.98,39148.78
+630,2023-09-22,India,Marine Products,Piano,11,4498.97,49488.67
+631,2023-09-23,India,Audio Equipment,Outboard Motor,6,13385.9,80315.4
+632,2023-09-24,India,Motorcycles,Piano,10,11268.23,112682.3
+633,2023-09-25,Europe,Audio Equipment,R15,2,14342.65,28685.3
+634,2023-09-26,Asia-Pacific,Marine Products,AV Receiver,3,5821.82,17465.46
+635,2023-09-27,North America,Motorcycles,R15,11,1865.47,20520.17
+636,2023-09-28,Asia-Pacific,Motorcycles,MT-15,14,17973.36,251627.04
+637,2023-09-29,North America,Motorcycles,Keyboard,13,14172.44,184241.72
+638,2023-09-30,India,Audio Equipment,R15,8,15788.44,126307.52
+639,2023-10-01,Asia-Pacific,Motorcycles,Outboard Motor,10,16998.58,169985.8
+640,2023-10-02,Asia-Pacific,Audio Equipment,Guitar,11,10722.31,117945.41
+641,2023-10-03,Europe,Audio Equipment,Keyboard,11,9589.99,105489.89
+642,2023-10-04,Europe,Marine Products,Guitar,11,8221.4,90435.4
+643,2023-10-05,Asia-Pacific,Marine Products,Piano,9,12959.63,116636.67
+644,2023-10-06,North America,Motorcycles,Keyboard,12,1604.85,19258.2
+645,2023-10-07,Japan,Musical Instruments,FZ-S,9,6153.13,55378.17
+646,2023-10-08,Europe,Motorcycles,Piano,7,17804.72,124633.04
+647,2023-10-09,India,Marine Products,Guitar,6,1891.01,11346.06
+648,2023-10-10,North America,Audio Equipment,Outboard Motor,8,17883.15,143065.2
+649,2023-10-11,Asia-Pacific,Motorcycles,Guitar,13,13422.2,174488.6
+650,2023-10-12,Asia-Pacific,Motorcycles,Keyboard,6,6461.1,38766.6
+651,2023-10-13,Asia-Pacific,Marine Products,Piano,11,12373.79,136111.69
+652,2023-10-14,India,Musical Instruments,Outboard Motor,10,10360.33,103603.3
+653,2023-10-15,India,Motorcycles,MT-15,8,2758.83,22070.64
+654,2023-10-16,North America,Audio Equipment,MT-15,2,10916.89,21833.78
+655,2023-10-17,Europe,Musical Instruments,Outboard Motor,5,14436.66,72183.3
+656,2023-10-18,North America,Marine Products,R15,8,12054.56,96436.48
+657,2023-10-19,Japan,Marine Products,MT-15,3,8246.85,24740.55
+658,2023-10-20,North America,Musical Instruments,Keyboard,8,1252.86,10022.88
+659,2023-10-21,Europe,Audio Equipment,AV Receiver,9,1983.22,17848.98
+660,2023-10-22,India,Musical Instruments,Outboard Motor,4,5875.38,23501.52
+661,2023-10-23,Japan,Audio Equipment,Keyboard,11,12505.03,137555.33
+662,2023-10-24,Europe,Marine Products,Piano,11,16430.06,180730.66
+663,2023-10-25,Europe,Marine Products,Keyboard,9,16121.67,145095.03
+664,2023-10-26,Japan,Marine Products,MT-15,2,7465.58,14931.16
+665,2023-10-27,North America,Musical Instruments,Guitar,8,5683.52,45468.16
+666,2023-10-28,Japan,Marine Products,Outboard Motor,4,13211.6,52846.4
+667,2023-10-29,Japan,Marine Products,Keyboard,6,16075.01,96450.06
+668,2023-10-30,Europe,Motorcycles,R15,7,10830.55,75813.85
+669,2023-10-31,Europe,Motorcycles,Piano,4,5732.33,22929.32
+670,2023-11-01,India,Motorcycles,Guitar,10,9341.08,93410.8
+671,2023-11-02,North America,Motorcycles,Piano,9,14027.59,126248.31
+672,2023-11-03,Europe,Marine Products,R15,12,13895.93,166751.16
+673,2023-11-04,North America,Marine Products,FZ-S,4,15344.4,61377.6
+674,2023-11-05,India,Motorcycles,Keyboard,7,11358.7,79510.9
+675,2023-11-06,Asia-Pacific,Motorcycles,R15,13,9358.84,121664.92
+676,2023-11-07,Europe,Musical Instruments,Outboard Motor,11,1863.45,20497.95
+677,2023-11-08,Europe,Motorcycles,Piano,1,16383.81,16383.81
+678,2023-11-09,Europe,Musical Instruments,R15,1,15940.67,15940.67
+679,2023-11-10,Japan,Audio Equipment,AV Receiver,10,2969.82,29698.2
+680,2023-11-11,India,Marine Products,R15,12,17468.95,209627.4
+681,2023-11-12,Europe,Marine Products,MT-15,2,4026.0,8052.0
+682,2023-11-13,Europe,Musical Instruments,Piano,11,4689.42,51583.62
+683,2023-11-14,India,Audio Equipment,Guitar,11,2808.35,30891.85
+684,2023-11-15,North America,Motorcycles,Guitar,13,6122.01,79586.13
+685,2023-11-16,India,Audio Equipment,AV Receiver,2,1242.11,2484.22
+686,2023-11-17,Asia-Pacific,Musical Instruments,R15,3,6937.02,20811.06
+687,2023-11-18,North America,Audio Equipment,Keyboard,5,4914.8,24574.0
+688,2023-11-19,Europe,Audio Equipment,MT-15,11,6144.29,67587.19
+689,2023-11-20,Japan,Marine Products,R15,1,10765.85,10765.85
+690,2023-11-21,Japan,Marine Products,Piano,9,180.34,1623.06
+691,2023-11-22,Asia-Pacific,Audio Equipment,Outboard Motor,13,15023.73,195308.49
+692,2023-11-23,Asia-Pacific,Motorcycles,FZ-S,10,9108.07,91080.7
+693,2023-11-24,India,Musical Instruments,Outboard Motor,1,13043.58,13043.58
+694,2023-11-25,India,Motorcycles,AV Receiver,10,12199.07,121990.7
+695,2023-11-26,Europe,Marine Products,Outboard Motor,13,15676.41,203793.33
+696,2023-11-27,North America,Audio Equipment,Outboard Motor,6,1112.08,6672.48
+697,2023-11-28,Asia-Pacific,Musical Instruments,FZ-S,6,2606.05,15636.3
+698,2023-11-29,Europe,Marine Products,Keyboard,7,11342.89,79400.23
+699,2023-11-30,India,Musical Instruments,MT-15,4,1770.71,7082.84
+700,2023-12-01,Japan,Musical Instruments,Guitar,1,5673.89,5673.89
+701,2023-12-02,Asia-Pacific,Marine Products,Piano,5,12895.51,64477.55
+702,2023-12-03,Asia-Pacific,Audio Equipment,R15,12,14599.37,175192.44
+703,2023-12-04,North America,Musical Instruments,Outboard Motor,2,16383.13,32766.26
+704,2023-12-05,Asia-Pacific,Marine Products,R15,1,15492.44,15492.44
+705,2023-12-06,Asia-Pacific,Musical Instruments,Guitar,5,1078.44,5392.2
+706,2023-12-07,North America,Musical Instruments,MT-15,8,5907.68,47261.44
+707,2023-12-08,Europe,Motorcycles,Outboard Motor,1,14113.04,14113.04
+708,2023-12-09,Japan,Audio Equipment,Guitar,8,11447.97,91583.76
+709,2023-12-10,Asia-Pacific,Audio Equipment,Keyboard,8,2542.69,20341.52
+710,2023-12-11,Europe,Marine Products,Guitar,10,5468.21,54682.1
+711,2023-12-12,India,Marine Products,Outboard Motor,12,17075.03,204900.36
+712,2023-12-13,Asia-Pacific,Marine Products,R15,11,17371.44,191085.84
+713,2023-12-14,North America,Musical Instruments,MT-15,2,680.3,1360.6
+714,2023-12-15,India,Audio Equipment,Outboard Motor,6,8989.28,53935.68
+715,2023-12-16,India,Musical Instruments,FZ-S,3,8343.8,25031.4
+716,2023-12-17,Asia-Pacific,Motorcycles,AV Receiver,14,1398.94,19585.16
+717,2023-12-18,Asia-Pacific,Audio Equipment,FZ-S,8,1544.62,12356.96
+718,2023-12-19,Europe,Marine Products,AV Receiver,11,11336.91,124706.01
+719,2023-12-20,Japan,Marine Products,R15,7,15000.71,105004.97
+720,2023-12-21,India,Audio Equipment,Keyboard,6,7065.27,42391.62
+721,2023-12-22,Europe,Musical Instruments,Guitar,14,3585.82,50201.48
+722,2023-12-23,North America,Audio Equipment,Keyboard,11,16183.56,178019.16
+723,2023-12-24,Europe,Audio Equipment,FZ-S,10,3995.89,39958.9
+724,2023-12-25,Asia-Pacific,Marine Products,Guitar,4,9851.33,39405.32
+725,2023-12-26,Japan,Audio Equipment,MT-15,10,12443.65,124436.5
+726,2023-12-27,Asia-Pacific,Marine Products,Guitar,11,15207.39,167281.29
+727,2023-12-28,Asia-Pacific,Audio Equipment,MT-15,13,703.54,9146.02
+728,2023-12-29,Asia-Pacific,Musical Instruments,R15,2,3008.01,6016.02
+729,2023-12-30,Europe,Audio Equipment,Guitar,12,15197.87,182374.44
+730,2023-12-31,India,Musical Instruments,AV Receiver,8,1140.32,9122.56
+731,2024-01-01,India,Marine Products,MT-15,9,5111.74,46005.66
+732,2024-01-02,Europe,Marine Products,MT-15,10,7175.78,71757.8
+733,2024-01-03,Japan,Musical Instruments,R15,5,15081.49,75407.45
+734,2024-01-04,Japan,Audio Equipment,MT-15,13,6391.09,83084.17
+735,2024-01-05,Japan,Audio Equipment,R15,14,336.51,4711.14
+736,2024-01-06,North America,Audio Equipment,MT-15,4,701.89,2807.56
+737,2024-01-07,Japan,Musical Instruments,Guitar,1,16786.33,16786.33
+738,2024-01-08,India,Motorcycles,FZ-S,10,12055.36,120553.6
+739,2024-01-09,North America,Marine Products,FZ-S,4,17619.49,70477.96
+740,2024-01-10,Asia-Pacific,Marine Products,Outboard Motor,8,256.15,2049.2
+741,2024-01-11,Japan,Audio Equipment,FZ-S,7,133.36,933.52
+742,2024-01-12,India,Marine Products,Keyboard,6,12266.48,73598.88
+743,2024-01-13,Europe,Audio Equipment,Piano,5,13324.89,66624.45
+744,2024-01-14,India,Musical Instruments,Outboard Motor,6,17274.0,103644.0
+745,2024-01-15,Europe,Marine Products,Keyboard,8,8244.0,65952.0
+746,2024-01-16,Asia-Pacific,Audio Equipment,AV Receiver,13,17957.79,233451.27
+747,2024-01-17,Japan,Audio Equipment,AV Receiver,11,11069.28,121762.08
+748,2024-01-18,Europe,Audio Equipment,Keyboard,13,6825.66,88733.58
+749,2024-01-19,Europe,Audio Equipment,R15,8,6254.99,50039.92
+750,2024-01-20,Europe,Marine Products,Guitar,10,14458.27,144582.7
+751,2024-01-21,Europe,Audio Equipment,Guitar,14,961.87,13466.18
+752,2024-01-22,Japan,Audio Equipment,Guitar,9,10519.0,94671.0
+753,2024-01-23,Europe,Motorcycles,MT-15,1,8802.14,8802.14
+754,2024-01-24,North America,Motorcycles,Guitar,13,10101.39,131318.07
+755,2024-01-25,India,Motorcycles,AV Receiver,5,14196.61,70983.05
+756,2024-01-26,North America,Marine Products,Piano,9,3608.38,32475.42
+757,2024-01-27,India,Audio Equipment,Guitar,1,2552.54,2552.54
+758,2024-01-28,India,Marine Products,Keyboard,3,14439.53,43318.59
+759,2024-01-29,India,Musical Instruments,MT-15,13,9071.62,117931.06
+760,2024-01-30,India,Musical Instruments,FZ-S,9,17061.05,153549.45
+761,2024-01-31,Europe,Audio Equipment,Guitar,11,6516.74,71684.14
+762,2024-02-01,India,Musical Instruments,Piano,2,8642.53,17285.06
+763,2024-02-02,Japan,Marine Products,FZ-S,7,17013.14,119091.98
+764,2024-02-03,Asia-Pacific,Motorcycles,R15,7,880.27,6161.89
+765,2024-02-04,North America,Musical Instruments,Outboard Motor,3,16978.92,50936.76
+766,2024-02-05,Europe,Musical Instruments,Guitar,14,8300.43,116206.02
+767,2024-02-06,Europe,Motorcycles,Outboard Motor,7,14270.81,99895.67
+768,2024-02-07,Asia-Pacific,Marine Products,Keyboard,14,15067.57,210945.98
+769,2024-02-08,Asia-Pacific,Musical Instruments,MT-15,3,11409.93,34229.79
+770,2024-02-09,North America,Musical Instruments,Outboard Motor,2,17924.47,35848.94
+771,2024-02-10,North America,Musical Instruments,AV Receiver,13,13622.52,177092.76
+772,2024-02-11,Japan,Motorcycles,MT-15,1,17795.37,17795.37
+773,2024-02-12,Europe,Audio Equipment,Guitar,2,14824.2,29648.4
+774,2024-02-13,India,Motorcycles,FZ-S,5,6053.9,30269.5
+775,2024-02-14,Europe,Audio Equipment,Outboard Motor,5,6847.74,34238.7
+776,2024-02-15,Asia-Pacific,Marine Products,FZ-S,4,2575.26,10301.04
+777,2024-02-16,Japan,Audio Equipment,Piano,14,751.2,10516.8
+778,2024-02-17,Asia-Pacific,Marine Products,FZ-S,4,4443.8,17775.2
+779,2024-02-18,Asia-Pacific,Audio Equipment,Outboard Motor,10,14348.55,143485.5
+780,2024-02-19,Europe,Motorcycles,Outboard Motor,2,1472.41,2944.82
+781,2024-02-20,Asia-Pacific,Marine Products,FZ-S,5,5283.22,26416.1
+782,2024-02-21,Japan,Audio Equipment,Outboard Motor,13,14914.83,193892.79
+783,2024-02-22,Japan,Marine Products,MT-15,11,12048.48,132533.28
+784,2024-02-23,North America,Audio Equipment,R15,11,15846.38,174310.18
+785,2024-02-24,North America,Audio Equipment,R15,4,307.45,1229.8
+786,2024-02-25,Asia-Pacific,Motorcycles,FZ-S,4,15021.78,60087.12
+787,2024-02-26,India,Musical Instruments,Outboard Motor,7,16900.16,118301.12
+788,2024-02-27,Japan,Marine Products,AV Receiver,1,4745.86,4745.86
+789,2024-02-28,Asia-Pacific,Marine Products,Guitar,11,10536.85,115905.35
+790,2024-02-29,Asia-Pacific,Audio Equipment,R15,9,7339.67,66057.03
+791,2024-03-01,Europe,Motorcycles,FZ-S,10,16149.99,161499.9
+792,2024-03-02,Europe,Marine Products,Outboard Motor,13,10507.21,136593.73
+793,2024-03-03,India,Marine Products,MT-15,5,5992.2,29961.0
+794,2024-03-04,Europe,Musical Instruments,MT-15,8,8013.84,64110.72
+795,2024-03-05,Japan,Motorcycles,FZ-S,5,15275.94,76379.7
+796,2024-03-06,India,Marine Products,Keyboard,7,9184.76,64293.32
+797,2024-03-07,Japan,Audio Equipment,MT-15,14,5884.55,82383.7
+798,2024-03-08,North America,Musical Instruments,Guitar,10,10832.65,108326.5
+799,2024-03-09,Asia-Pacific,Musical Instruments,R15,2,14188.41,28376.82
+800,2024-03-10,Japan,Musical Instruments,AV Receiver,11,16601.29,182614.19
+801,2024-03-11,Japan,Audio Equipment,R15,5,16973.0,84865.0
+802,2024-03-12,Japan,Audio Equipment,Guitar,11,1211.47,13326.17
+803,2024-03-13,India,Audio Equipment,FZ-S,11,6372.34,70095.74
+804,2024-03-14,Europe,Musical Instruments,R15,6,6647.66,39885.96
+805,2024-03-15,Europe,Musical Instruments,Guitar,10,9906.24,99062.4
+806,2024-03-16,North America,Motorcycles,Piano,4,6257.65,25030.6
+807,2024-03-17,Asia-Pacific,Musical Instruments,R15,2,17745.05,35490.1
+808,2024-03-18,Japan,Audio Equipment,Guitar,13,901.43,11718.59
+809,2024-03-19,North America,Musical Instruments,MT-15,4,3628.12,14512.48
+810,2024-03-20,Europe,Marine Products,Keyboard,13,11262.1,146407.3
+811,2024-03-21,Asia-Pacific,Audio Equipment,Guitar,12,15456.98,185483.76
+812,2024-03-22,Asia-Pacific,Audio Equipment,MT-15,11,8851.09,97361.99
+813,2024-03-23,Asia-Pacific,Marine Products,Piano,5,2738.02,13690.1
+814,2024-03-24,Europe,Motorcycles,R15,11,8277.16,91048.76
+815,2024-03-25,Europe,Audio Equipment,Keyboard,4,12601.81,50407.24
+816,2024-03-26,India,Audio Equipment,Outboard Motor,7,3038.08,21266.56
+817,2024-03-27,Asia-Pacific,Motorcycles,Keyboard,13,13003.72,169048.36
+818,2024-03-28,Japan,Marine Products,FZ-S,5,17894.42,89472.1
+819,2024-03-29,Japan,Musical Instruments,Piano,3,16461.41,49384.23
+820,2024-03-30,Europe,Marine Products,Outboard Motor,3,2957.23,8871.69
+821,2024-03-31,India,Audio Equipment,AV Receiver,2,14373.32,28746.64
+822,2024-04-01,India,Marine Products,Outboard Motor,7,15885.75,111200.25
+823,2024-04-02,Japan,Motorcycles,Outboard Motor,2,3031.01,6062.02
+824,2024-04-03,North America,Audio Equipment,FZ-S,1,15937.19,15937.19
+825,2024-04-04,Europe,Motorcycles,Guitar,6,1571.4,9428.4
+826,2024-04-05,India,Musical Instruments,MT-15,7,15753.48,110274.36
+827,2024-04-06,India,Audio Equipment,FZ-S,14,13716.22,192027.08
+828,2024-04-07,North America,Motorcycles,R15,12,12273.3,147279.6
+829,2024-04-08,Japan,Marine Products,R15,13,3912.14,50857.82
+830,2024-04-09,North America,Motorcycles,R15,3,17596.31,52788.93
+831,2024-04-10,Europe,Audio Equipment,Keyboard,13,2339.25,30410.25
+832,2024-04-11,Japan,Motorcycles,MT-15,5,15949.35,79746.75
+833,2024-04-12,North America,Audio Equipment,MT-15,14,9894.67,138525.38
+834,2024-04-13,India,Marine Products,Outboard Motor,8,6631.67,53053.36
+835,2024-04-14,North America,Musical Instruments,Keyboard,10,14295.78,142957.8
+836,2024-04-15,Europe,Marine Products,Piano,6,4120.53,24723.18
+837,2024-04-16,Japan,Musical Instruments,MT-15,5,17329.12,86645.6
+838,2024-04-17,Asia-Pacific,Motorcycles,FZ-S,10,8441.86,84418.6
+839,2024-04-18,India,Marine Products,FZ-S,14,4763.94,66695.16
+840,2024-04-19,Japan,Marine Products,FZ-S,12,13832.64,165991.68
+841,2024-04-20,Japan,Marine Products,AV Receiver,13,15610.95,202942.35
+842,2024-04-21,Europe,Marine Products,MT-15,14,3347.49,46864.86
+843,2024-04-22,Europe,Marine Products,Piano,5,2355.2,11776.0
+844,2024-04-23,India,Audio Equipment,Piano,7,137.74,964.18
+845,2024-04-24,North America,Motorcycles,Piano,10,2377.74,23777.4
+846,2024-04-25,North America,Marine Products,MT-15,4,6299.84,25199.36
+847,2024-04-26,India,Motorcycles,Keyboard,6,4610.46,27662.76
+848,2024-04-27,Japan,Musical Instruments,AV Receiver,10,11077.55,110775.5
+849,2024-04-28,North America,Musical Instruments,FZ-S,12,7759.34,93112.08
+850,2024-04-29,India,Audio Equipment,FZ-S,11,3235.38,35589.18
+851,2024-04-30,Japan,Marine Products,Keyboard,4,3893.43,15573.72
+852,2024-05-01,Japan,Audio Equipment,FZ-S,6,12121.02,72726.12
+853,2024-05-02,India,Marine Products,Piano,8,500.75,4006.0
+854,2024-05-03,Asia-Pacific,Motorcycles,MT-15,9,9509.76,85587.84
+855,2024-05-04,North America,Marine Products,Outboard Motor,7,8281.32,57969.24
+856,2024-05-05,North America,Marine Products,Guitar,4,3218.9,12875.6
+857,2024-05-06,North America,Musical Instruments,FZ-S,6,6591.85,39551.1
+858,2024-05-07,Asia-Pacific,Marine Products,Keyboard,13,4410.25,57333.25
+859,2024-05-08,North America,Audio Equipment,R15,14,14918.89,208864.46
+860,2024-05-09,North America,Audio Equipment,MT-15,9,3715.78,33442.02
+861,2024-05-10,Japan,Musical Instruments,FZ-S,4,10192.49,40769.96
+862,2024-05-11,India,Motorcycles,Piano,1,2874.45,2874.45
+863,2024-05-12,North America,Audio Equipment,Keyboard,14,10250.72,143510.08
+864,2024-05-13,Asia-Pacific,Motorcycles,FZ-S,6,5183.19,31099.14
+865,2024-05-14,Europe,Audio Equipment,Outboard Motor,2,4759.59,9519.18
+866,2024-05-15,Japan,Audio Equipment,FZ-S,3,12800.68,38402.04
+867,2024-05-16,India,Motorcycles,AV Receiver,3,2235.75,6707.25
+868,2024-05-17,Japan,Marine Products,Outboard Motor,1,10550.12,10550.12
+869,2024-05-18,India,Audio Equipment,MT-15,3,3802.1,11406.3
+870,2024-05-19,Asia-Pacific,Musical Instruments,R15,2,565.42,1130.84
+871,2024-05-20,North America,Audio Equipment,Outboard Motor,6,16715.91,100295.46
+872,2024-05-21,North America,Audio Equipment,Piano,11,9507.84,104586.24
+873,2024-05-22,North America,Marine Products,Keyboard,13,14724.66,191420.58
+874,2024-05-23,India,Audio Equipment,Keyboard,6,17453.79,104722.74
+875,2024-05-24,Asia-Pacific,Marine Products,FZ-S,14,14234.19,199278.66
+876,2024-05-25,North America,Marine Products,MT-15,9,16563.95,149075.55
+877,2024-05-26,Asia-Pacific,Musical Instruments,Keyboard,14,17120.6,239688.4
+878,2024-05-27,India,Audio Equipment,Guitar,14,3028.93,42405.02
+879,2024-05-28,Europe,Motorcycles,R15,3,16012.29,48036.87
+880,2024-05-29,Asia-Pacific,Musical Instruments,Piano,7,16423.85,114966.95
+881,2024-05-30,North America,Motorcycles,AV Receiver,3,6016.0,18048.0
+882,2024-05-31,Europe,Audio Equipment,AV Receiver,1,8425.26,8425.26
+883,2024-06-01,Asia-Pacific,Motorcycles,Keyboard,9,6643.28,59789.52
+884,2024-06-02,India,Audio Equipment,Piano,7,4495.09,31465.63
+885,2024-06-03,Japan,Motorcycles,MT-15,11,15617.42,171791.62
+886,2024-06-04,North America,Audio Equipment,Outboard Motor,8,8419.79,67358.32
+887,2024-06-05,Asia-Pacific,Motorcycles,AV Receiver,2,16102.54,32205.08
+888,2024-06-06,North America,Marine Products,Outboard Motor,6,15526.73,93160.38
+889,2024-06-07,Japan,Musical Instruments,R15,11,3192.15,35113.65
+890,2024-06-08,Asia-Pacific,Motorcycles,Keyboard,12,8971.37,107656.44
+891,2024-06-09,North America,Marine Products,Guitar,2,2916.51,5833.02
+892,2024-06-10,North America,Motorcycles,MT-15,14,14959.57,209433.98
+893,2024-06-11,India,Musical Instruments,R15,7,12050.74,84355.18
+894,2024-06-12,North America,Marine Products,FZ-S,13,13221.34,171877.42
+895,2024-06-13,India,Marine Products,R15,1,8999.0,8999.0
+896,2024-06-14,India,Marine Products,Guitar,9,13391.23,120521.07
+897,2024-06-15,India,Marine Products,AV Receiver,5,1961.62,9808.1
+898,2024-06-16,India,Marine Products,Guitar,2,5817.5,11635.0
+899,2024-06-17,Europe,Marine Products,Keyboard,13,13821.98,179685.74
+900,2024-06-18,Japan,Musical Instruments,FZ-S,7,7766.21,54363.47
+901,2024-06-19,Europe,Audio Equipment,Keyboard,9,13661.31,122951.79
+902,2024-06-20,India,Marine Products,Piano,10,17899.84,178998.4
+903,2024-06-21,Europe,Musical Instruments,MT-15,6,2883.45,17300.7
+904,2024-06-22,Japan,Motorcycles,AV Receiver,6,2455.28,14731.68
+905,2024-06-23,North America,Motorcycles,Keyboard,5,2160.64,10803.2
+906,2024-06-24,Asia-Pacific,Marine Products,FZ-S,10,14057.77,140577.7
+907,2024-06-25,North America,Marine Products,Piano,8,9886.52,79092.16
+908,2024-06-26,North America,Motorcycles,Keyboard,14,948.42,13277.88
+909,2024-06-27,Europe,Audio Equipment,FZ-S,9,12666.5,113998.5
+910,2024-06-28,Japan,Marine Products,Outboard Motor,2,14678.71,29357.42
+911,2024-06-29,Japan,Motorcycles,Guitar,5,16763.67,83818.35
+912,2024-06-30,India,Musical Instruments,Piano,1,6648.08,6648.08
+913,2024-07-01,India,Marine Products,Guitar,4,1950.69,7802.76
+914,2024-07-02,Europe,Musical Instruments,MT-15,2,1447.24,2894.48
+915,2024-07-03,Japan,Motorcycles,Outboard Motor,3,13458.05,40374.15
+916,2024-07-04,North America,Audio Equipment,FZ-S,5,6481.22,32406.1
+917,2024-07-05,Asia-Pacific,Motorcycles,AV Receiver,13,5540.01,72020.13
+918,2024-07-06,North America,Motorcycles,Piano,4,694.87,2779.48
+919,2024-07-07,Europe,Motorcycles,Guitar,1,2668.3,2668.3
+920,2024-07-08,Europe,Audio Equipment,R15,6,12375.07,74250.42
+921,2024-07-09,Europe,Marine Products,Keyboard,8,16278.75,130230.0
+922,2024-07-10,Asia-Pacific,Marine Products,Outboard Motor,12,9923.79,119085.48
+923,2024-07-11,Europe,Musical Instruments,Outboard Motor,14,5958.77,83422.78
+924,2024-07-12,Europe,Motorcycles,AV Receiver,14,17510.76,245150.64
+925,2024-07-13,India,Motorcycles,Piano,9,15379.51,138415.59
+926,2024-07-14,North America,Musical Instruments,MT-15,6,2478.27,14869.62
+927,2024-07-15,Europe,Audio Equipment,Keyboard,7,15350.8,107455.6
+928,2024-07-16,Asia-Pacific,Audio Equipment,AV Receiver,1,2415.8,2415.8
+929,2024-07-17,India,Marine Products,FZ-S,10,10833.31,108333.1
+930,2024-07-18,India,Marine Products,Piano,8,3982.41,31859.28
+931,2024-07-19,Japan,Audio Equipment,Guitar,8,4233.37,33866.96
+932,2024-07-20,India,Motorcycles,Keyboard,9,13590.73,122316.57
+933,2024-07-21,Asia-Pacific,Musical Instruments,Guitar,8,3912.84,31302.72
+934,2024-07-22,Europe,Motorcycles,AV Receiver,4,14547.09,58188.36
+935,2024-07-23,India,Marine Products,MT-15,12,10286.22,123434.64
+936,2024-07-24,Japan,Audio Equipment,Guitar,14,5362.54,75075.56
+937,2024-07-25,India,Audio Equipment,AV Receiver,9,16319.89,146879.01
+938,2024-07-26,North America,Marine Products,Outboard Motor,7,13404.89,93834.23
+939,2024-07-27,India,Marine Products,AV Receiver,14,5651.17,79116.38
+940,2024-07-28,Japan,Musical Instruments,MT-15,14,685.09,9591.26
+941,2024-07-29,India,Marine Products,MT-15,10,7123.84,71238.4
+942,2024-07-30,India,Audio Equipment,AV Receiver,7,3399.45,23796.15
+943,2024-07-31,Europe,Motorcycles,FZ-S,9,1157.36,10416.24
+944,2024-08-01,Japan,Motorcycles,Keyboard,3,2076.81,6230.43
+945,2024-08-02,Asia-Pacific,Motorcycles,AV Receiver,7,10520.71,73644.97
+946,2024-08-03,Asia-Pacific,Audio Equipment,MT-15,1,11190.55,11190.55
+947,2024-08-04,North America,Audio Equipment,Keyboard,11,10258.28,112841.08
+948,2024-08-05,India,Marine Products,Guitar,4,7859.51,31438.04
+949,2024-08-06,India,Audio Equipment,MT-15,1,305.59,305.59
+950,2024-08-07,India,Marine Products,Keyboard,10,6969.85,69698.5
+951,2024-08-08,Asia-Pacific,Musical Instruments,Keyboard,2,7816.04,15632.08
+952,2024-08-09,Asia-Pacific,Audio Equipment,MT-15,14,10035.55,140497.7
+953,2024-08-10,Japan,Musical Instruments,Outboard Motor,11,6333.65,69670.15
+954,2024-08-11,India,Audio Equipment,R15,11,6850.45,75354.95
+955,2024-08-12,Japan,Musical Instruments,R15,9,3457.48,31117.32
+956,2024-08-13,Japan,Musical Instruments,Outboard Motor,13,9771.22,127025.86
+957,2024-08-14,Europe,Audio Equipment,Outboard Motor,5,10023.74,50118.7
+958,2024-08-15,Asia-Pacific,Musical Instruments,FZ-S,14,3842.09,53789.26
+959,2024-08-16,North America,Audio Equipment,Piano,9,8191.15,73720.35
+960,2024-08-17,North America,Audio Equipment,Outboard Motor,8,17934.04,143472.32
+961,2024-08-18,India,Audio Equipment,Outboard Motor,7,3621.36,25349.52
+962,2024-08-19,India,Marine Products,AV Receiver,14,10413.32,145786.48
+963,2024-08-20,North America,Motorcycles,Guitar,1,15404.05,15404.05
+964,2024-08-21,North America,Musical Instruments,AV Receiver,2,10976.74,21953.48
+965,2024-08-22,North America,Marine Products,FZ-S,6,16533.29,99199.74
+966,2024-08-23,India,Audio Equipment,Keyboard,4,4938.86,19755.44
+967,2024-08-24,India,Musical Instruments,R15,7,2867.07,20069.49
+968,2024-08-25,India,Audio Equipment,Guitar,13,12134.48,157748.24
+969,2024-08-26,Asia-Pacific,Motorcycles,Keyboard,2,13589.14,27178.28
+970,2024-08-27,Europe,Musical Instruments,AV Receiver,11,3391.34,37304.74
+971,2024-08-28,Europe,Musical Instruments,MT-15,8,11781.07,94248.56
+972,2024-08-29,Asia-Pacific,Audio Equipment,Outboard Motor,12,2436.61,29239.32
+973,2024-08-30,Asia-Pacific,Audio Equipment,Guitar,9,9355.11,84195.99
+974,2024-08-31,Asia-Pacific,Marine Products,Keyboard,13,4016.18,52210.34
+975,2024-09-01,India,Marine Products,R15,13,7362.93,95718.09
+976,2024-09-02,North America,Audio Equipment,AV Receiver,2,8614.34,17228.68
+977,2024-09-03,India,Musical Instruments,Outboard Motor,10,2573.48,25734.8
+978,2024-09-04,Asia-Pacific,Motorcycles,AV Receiver,14,15655.64,219178.96
+979,2024-09-05,North America,Motorcycles,Outboard Motor,13,5620.46,73065.98
+980,2024-09-06,Europe,Audio Equipment,Guitar,6,4693.79,28162.74
+981,2024-09-07,North America,Audio Equipment,R15,4,13809.92,55239.68
+982,2024-09-08,India,Motorcycles,AV Receiver,6,12148.12,72888.72
+983,2024-09-09,India,Audio Equipment,MT-15,3,13694.06,41082.18
+984,2024-09-10,Europe,Musical Instruments,R15,14,3228.81,45203.34
+985,2024-09-11,India,Motorcycles,R15,11,3313.5,36448.5
+986,2024-09-12,Europe,Audio Equipment,Keyboard,13,1927.66,25059.58
+987,2024-09-13,Asia-Pacific,Motorcycles,MT-15,7,9768.46,68379.22
+988,2024-09-14,Europe,Musical Instruments,FZ-S,2,4279.5,8559.0
+989,2024-09-15,Europe,Musical Instruments,AV Receiver,13,14129.03,183677.39
+990,2024-09-16,Asia-Pacific,Motorcycles,MT-15,7,12160.39,85122.73
+991,2024-09-17,Europe,Marine Products,AV Receiver,13,2362.38,30710.94
+992,2024-09-18,Asia-Pacific,Musical Instruments,FZ-S,6,17479.12,104874.72
+993,2024-09-19,Asia-Pacific,Marine Products,Piano,6,8331.35,49988.1
+994,2024-09-20,Japan,Marine Products,Piano,13,13448.88,174835.44
+995,2024-09-21,Asia-Pacific,Musical Instruments,MT-15,6,17793.46,106760.76
+996,2024-09-22,Japan,Audio Equipment,FZ-S,10,6129.35,61293.5
+997,2024-09-23,India,Motorcycles,FZ-S,10,2879.37,28793.7
+998,2024-09-24,Europe,Musical Instruments,Keyboard,3,13366.25,40098.75
+999,2024-09-25,Europe,Musical Instruments,AV Receiver,13,17512.82,227666.66
+1000,2024-09-26,North America,Marine Products,Keyboard,8,4242.03,33936.24
+1001,2024-09-27,India,Musical Instruments,MT-15,14,4541.61,63582.54
+1002,2024-09-28,India,Marine Products,FZ-S,12,4230.71,50768.52
+1003,2024-09-29,India,Motorcycles,Guitar,1,9624.47,9624.47
+1004,2024-09-30,India,Marine Products,MT-15,6,7577.21,45463.26
+1005,2024-10-01,India,Motorcycles,Keyboard,6,7196.52,43179.12
+1006,2024-10-02,Japan,Audio Equipment,MT-15,9,2874.48,25870.32
+1007,2024-10-03,India,Motorcycles,Guitar,6,14213.31,85279.86
+1008,2024-10-04,Asia-Pacific,Musical Instruments,Guitar,3,1248.9,3746.7
+1009,2024-10-05,Japan,Audio Equipment,AV Receiver,7,3737.26,26160.82
+1010,2024-10-06,Europe,Musical Instruments,Keyboard,6,9817.31,58903.86
+1011,2024-10-07,Japan,Marine Products,MT-15,13,11572.8,150446.4
+1012,2024-10-08,North America,Motorcycles,Piano,14,14427.39,201983.46
+1013,2024-10-09,Europe,Musical Instruments,Piano,4,8687.83,34751.32
+1014,2024-10-10,Japan,Motorcycles,Piano,14,10297.06,144158.84
+1015,2024-10-11,Japan,Audio Equipment,Guitar,8,16552.75,132422.0
+1016,2024-10-12,North America,Marine Products,FZ-S,9,9284.93,83564.37
+1017,2024-10-13,North America,Marine Products,R15,10,14275.01,142750.1
+1018,2024-10-14,Europe,Motorcycles,Outboard Motor,1,12899.63,12899.63
+1019,2024-10-15,North America,Audio Equipment,R15,8,2749.94,21999.52
+1020,2024-10-16,Japan,Musical Instruments,MT-15,3,11346.28,34038.84
+1021,2024-10-17,Europe,Musical Instruments,Piano,14,1519.26,21269.64
+1022,2024-10-18,North America,Marine Products,Piano,13,14336.89,186379.57
+1023,2024-10-19,Europe,Motorcycles,AV Receiver,2,10016.59,20033.18
+1024,2024-10-20,North America,Motorcycles,Keyboard,11,4697.07,51667.77
+1025,2024-10-21,Europe,Motorcycles,Piano,3,17586.71,52760.13
+1026,2024-10-22,North America,Motorcycles,MT-15,4,9916.35,39665.4
+1027,2024-10-23,Asia-Pacific,Audio Equipment,Guitar,7,14977.95,104845.65
+1028,2024-10-24,Asia-Pacific,Musical Instruments,Guitar,6,10625.77,63754.62
+1029,2024-10-25,North America,Musical Instruments,FZ-S,3,17288.83,51866.49
+1030,2024-10-26,Asia-Pacific,Motorcycles,Keyboard,8,14960.45,119683.6
+1031,2024-10-27,North America,Motorcycles,Outboard Motor,14,17540.99,245573.86
+1032,2024-10-28,Asia-Pacific,Marine Products,AV Receiver,8,646.49,5171.92
+1033,2024-10-29,India,Audio Equipment,AV Receiver,11,7809.86,85908.46
+1034,2024-10-30,India,Motorcycles,FZ-S,1,9793.59,9793.59
+1035,2024-10-31,Europe,Musical Instruments,R15,11,15098.44,166082.84
+1036,2024-11-01,Europe,Audio Equipment,Keyboard,12,7006.88,84082.56
+1037,2024-11-02,India,Motorcycles,MT-15,13,13008.31,169108.03
+1038,2024-11-03,Asia-Pacific,Marine Products,Guitar,9,15822.27,142400.43
+1039,2024-11-04,Europe,Motorcycles,Outboard Motor,5,4204.79,21023.95
+1040,2024-11-05,Europe,Marine Products,AV Receiver,2,3139.88,6279.76
+1041,2024-11-06,North America,Musical Instruments,FZ-S,6,12524.29,75145.74
+1042,2024-11-07,North America,Motorcycles,R15,8,8407.6,67260.8
+1043,2024-11-08,India,Motorcycles,MT-15,6,8819.77,52918.62
+1044,2024-11-09,Europe,Marine Products,FZ-S,6,16317.0,97902.0
+1045,2024-11-10,India,Musical Instruments,Guitar,9,6549.49,58945.41
+1046,2024-11-11,India,Musical Instruments,MT-15,2,5119.51,10239.02
+1047,2024-11-12,Japan,Marine Products,Keyboard,13,15990.53,207876.89
+1048,2024-11-13,North America,Motorcycles,AV Receiver,13,315.39,4100.07
+1049,2024-11-14,Japan,Audio Equipment,R15,4,1147.62,4590.48
+1050,2024-11-15,North America,Musical Instruments,Guitar,9,1161.87,10456.83
+1051,2024-11-16,Asia-Pacific,Audio Equipment,Piano,11,13950.11,153451.21
+1052,2024-11-17,North America,Marine Products,MT-15,6,12335.93,74015.58
+1053,2024-11-18,Japan,Musical Instruments,Outboard Motor,2,11271.37,22542.74
+1054,2024-11-19,Europe,Audio Equipment,R15,13,7440.04,96720.52
+1055,2024-11-20,Asia-Pacific,Audio Equipment,Keyboard,10,11661.71,116617.1
+1056,2024-11-21,Japan,Marine Products,FZ-S,12,16513.35,198160.2
+1057,2024-11-22,North America,Motorcycles,R15,7,2990.28,20931.96
+1058,2024-11-23,North America,Motorcycles,R15,8,6054.83,48438.64
+1059,2024-11-24,Japan,Musical Instruments,MT-15,13,16473.57,214156.41
+1060,2024-11-25,North America,Musical Instruments,Keyboard,8,16800.9,134407.2
+1061,2024-11-26,Japan,Motorcycles,Piano,12,9503.43,114041.16
+1062,2024-11-27,Japan,Musical Instruments,Keyboard,10,9430.44,94304.4
+1063,2024-11-28,Europe,Musical Instruments,MT-15,12,663.88,7966.56
+1064,2024-11-29,India,Audio Equipment,Outboard Motor,10,10381.39,103813.9
+1065,2024-11-30,Japan,Audio Equipment,FZ-S,12,17142.61,205711.32
+1066,2024-12-01,Asia-Pacific,Audio Equipment,Keyboard,5,11429.54,57147.7
+1067,2024-12-02,Europe,Motorcycles,Outboard Motor,3,6130.13,18390.39
+1068,2024-12-03,Asia-Pacific,Musical Instruments,Guitar,14,4841.73,67784.22
+1069,2024-12-04,Asia-Pacific,Marine Products,Piano,6,2649.04,15894.24
+1070,2024-12-05,Asia-Pacific,Musical Instruments,MT-15,13,8631.6,112210.8
+1071,2024-12-06,North America,Musical Instruments,Piano,6,11204.43,67226.58
+1072,2024-12-07,Asia-Pacific,Audio Equipment,FZ-S,8,2482.93,19863.44
+1073,2024-12-08,Japan,Audio Equipment,Piano,9,15777.71,141999.39
+1074,2024-12-09,Japan,Audio Equipment,Guitar,3,10090.62,30271.86
+1075,2024-12-10,India,Musical Instruments,Piano,2,10403.22,20806.44
+1076,2024-12-11,Japan,Audio Equipment,Guitar,12,14201.53,170418.36
+1077,2024-12-12,North America,Motorcycles,MT-15,2,9444.59,18889.18
+1078,2024-12-13,Asia-Pacific,Motorcycles,FZ-S,14,16433.72,230072.08
+1079,2024-12-14,North America,Audio Equipment,Keyboard,1,14704.26,14704.26
+1080,2024-12-15,India,Motorcycles,MT-15,6,6721.53,40329.18
+1081,2024-12-16,India,Musical Instruments,Guitar,14,3609.84,50537.76
+1082,2024-12-17,India,Motorcycles,Keyboard,12,15254.13,183049.56
+1083,2024-12-18,India,Musical Instruments,Piano,3,10131.22,30393.66
+1084,2024-12-19,Europe,Motorcycles,R15,12,3432.77,41193.24
+1085,2024-12-20,Japan,Marine Products,AV Receiver,9,10192.88,91735.92
+1086,2024-12-21,Japan,Marine Products,AV Receiver,1,11486.79,11486.79
+1087,2024-12-22,Japan,Motorcycles,Guitar,9,15909.57,143186.13
+1088,2024-12-23,India,Marine Products,Guitar,8,3990.12,31920.96
+1089,2024-12-24,Asia-Pacific,Motorcycles,R15,2,16825.05,33650.1
+1090,2024-12-25,India,Audio Equipment,Piano,5,2864.35,14321.75
+1091,2024-12-26,North America,Audio Equipment,AV Receiver,3,17360.45,52081.35
+1092,2024-12-27,Asia-Pacific,Musical Instruments,R15,13,12733.18,165531.34
+1093,2024-12-28,Europe,Musical Instruments,Guitar,5,1921.14,9605.7
+1094,2024-12-29,Europe,Musical Instruments,R15,8,123.23,985.84
+1095,2024-12-30,India,Motorcycles,Guitar,14,12339.25,172749.5
+1096,2024-12-31,North America,Audio Equipment,Keyboard,5,17024.46,85122.3
+1097,2025-01-01,North America,Audio Equipment,Piano,3,2003.26,6009.78
+1098,2025-01-02,Asia-Pacific,Musical Instruments,Piano,3,14756.17,44268.51
+1099,2025-01-03,India,Audio Equipment,Outboard Motor,2,5473.47,10946.94
+1100,2025-01-04,Europe,Motorcycles,Outboard Motor,2,15583.19,31166.38
+1101,2025-01-05,Asia-Pacific,Audio Equipment,Outboard Motor,11,5280.48,58085.28
+1102,2025-01-06,Japan,Musical Instruments,MT-15,14,5708.9,79924.6
+1103,2025-01-07,India,Motorcycles,R15,8,4339.04,34712.32
+1104,2025-01-08,North America,Musical Instruments,AV Receiver,7,10837.8,75864.6
+1105,2025-01-09,North America,Marine Products,Keyboard,7,10611.68,74281.76
+1106,2025-01-10,Asia-Pacific,Musical Instruments,R15,14,9482.2,132750.8
+1107,2025-01-11,Japan,Musical Instruments,AV Receiver,3,8376.55,25129.65
+1108,2025-01-12,Asia-Pacific,Audio Equipment,AV Receiver,13,12936.53,168174.89
+1109,2025-01-13,Japan,Motorcycles,Outboard Motor,1,3037.98,3037.98
+1110,2025-01-14,Asia-Pacific,Audio Equipment,FZ-S,8,8060.42,64483.36
+1111,2025-01-15,Europe,Marine Products,MT-15,5,7066.24,35331.2
+1112,2025-01-16,Asia-Pacific,Audio Equipment,MT-15,14,5902.92,82640.88
+1113,2025-01-17,Europe,Motorcycles,MT-15,10,11229.82,112298.2
+1114,2025-01-18,Japan,Motorcycles,R15,1,10048.48,10048.48
+1115,2025-01-19,Japan,Musical Instruments,Keyboard,7,11447.16,80130.12
+1116,2025-01-20,Europe,Audio Equipment,Guitar,5,2882.98,14414.9
+1117,2025-01-21,North America,Audio Equipment,Keyboard,3,14469.55,43408.65
+1118,2025-01-22,India,Motorcycles,Keyboard,6,11463.72,68782.32
+1119,2025-01-23,Asia-Pacific,Marine Products,Keyboard,10,7926.27,79262.7
+1120,2025-01-24,Europe,Motorcycles,Keyboard,13,3849.26,50040.38
+1121,2025-01-25,Asia-Pacific,Marine Products,R15,1,1504.28,1504.28
+1122,2025-01-26,India,Audio Equipment,Outboard Motor,12,17448.86,209386.32
+1123,2025-01-27,North America,Marine Products,AV Receiver,8,4852.15,38817.2
+1124,2025-01-28,Japan,Audio Equipment,AV Receiver,4,13388.49,53553.96
+1125,2025-01-29,North America,Musical Instruments,Piano,10,14974.89,149748.9
+1126,2025-01-30,India,Motorcycles,MT-15,1,4994.73,4994.73
+1127,2025-01-31,Japan,Marine Products,AV Receiver,11,5589.84,61488.24
+1128,2025-02-01,Europe,Musical Instruments,AV Receiver,13,7470.38,97114.94
+1129,2025-02-02,North America,Marine Products,AV Receiver,1,10297.43,10297.43
+1130,2025-02-03,North America,Audio Equipment,Keyboard,7,7730.91,54116.37
+1131,2025-02-04,India,Marine Products,Keyboard,7,5099.09,35693.63
+1132,2025-02-05,Asia-Pacific,Audio Equipment,AV Receiver,8,10759.56,86076.48
+1133,2025-02-06,Japan,Audio Equipment,R15,10,17278.8,172788.0
+1134,2025-02-07,Asia-Pacific,Audio Equipment,FZ-S,7,6678.29,46748.03
+1135,2025-02-08,India,Marine Products,MT-15,8,1170.21,9361.68
+1136,2025-02-09,India,Motorcycles,Keyboard,3,7499.93,22499.79
+1137,2025-02-10,Asia-Pacific,Motorcycles,Piano,7,12261.57,85830.99
+1138,2025-02-11,Europe,Motorcycles,Piano,4,477.05,1908.2
+1139,2025-02-12,North America,Audio Equipment,Guitar,11,4302.35,47325.85
+1140,2025-02-13,Europe,Audio Equipment,MT-15,8,17470.13,139761.04
+1141,2025-02-14,Japan,Marine Products,Outboard Motor,11,7371.97,81091.67
+1142,2025-02-15,Japan,Audio Equipment,MT-15,9,13576.1,122184.9
+1143,2025-02-16,North America,Motorcycles,Keyboard,9,5932.74,53394.66
+1144,2025-02-17,Europe,Audio Equipment,Outboard Motor,4,11208.07,44832.28
+1145,2025-02-18,North America,Musical Instruments,Piano,13,998.8,12984.4
+1146,2025-02-19,Japan,Marine Products,R15,14,6317.44,88444.16
+1147,2025-02-20,India,Marine Products,AV Receiver,14,1050.38,14705.32
+1148,2025-02-21,North America,Marine Products,Guitar,8,15953.66,127629.28
+1149,2025-02-22,Asia-Pacific,Marine Products,Outboard Motor,11,12368.02,136048.22
+1150,2025-02-23,Asia-Pacific,Musical Instruments,AV Receiver,8,1988.29,15906.32
+1151,2025-02-24,Europe,Marine Products,AV Receiver,4,11340.08,45360.32
+1152,2025-02-25,North America,Musical Instruments,R15,9,11462.27,103160.43
+1153,2025-02-26,Europe,Audio Equipment,MT-15,14,1742.42,24393.88
+1154,2025-02-27,Asia-Pacific,Audio Equipment,R15,13,7720.89,100371.57
+1155,2025-02-28,Japan,Marine Products,AV Receiver,11,11947.68,131424.48
+1156,2025-03-01,Europe,Motorcycles,AV Receiver,13,8348.44,108529.72
+1157,2025-03-02,North America,Musical Instruments,AV Receiver,10,17600.87,176008.7
+1158,2025-03-03,Europe,Motorcycles,Outboard Motor,8,210.79,1686.32
+1159,2025-03-04,Europe,Marine Products,FZ-S,2,6321.12,12642.24
+1160,2025-03-05,Japan,Audio Equipment,MT-15,3,5948.29,17844.87
+1161,2025-03-06,Europe,Marine Products,AV Receiver,2,11531.4,23062.8
+1162,2025-03-07,India,Musical Instruments,R15,1,5979.92,5979.92
+1163,2025-03-08,Europe,Musical Instruments,Keyboard,12,950.51,11406.12
+1164,2025-03-09,North America,Motorcycles,Keyboard,3,838.9,2516.7
+1165,2025-03-10,India,Motorcycles,Guitar,9,17470.72,157236.48
+1166,2025-03-11,India,Musical Instruments,Keyboard,9,2010.98,18098.82
+1167,2025-03-12,Asia-Pacific,Audio Equipment,Keyboard,10,9008.5,90085.0
+1168,2025-03-13,North America,Audio Equipment,Keyboard,7,5806.68,40646.76
+1169,2025-03-14,Japan,Audio Equipment,R15,10,5165.13,51651.3
+1170,2025-03-15,Asia-Pacific,Motorcycles,FZ-S,6,13036.42,78218.52
+1171,2025-03-16,Asia-Pacific,Audio Equipment,FZ-S,2,11119.32,22238.64
+1172,2025-03-17,India,Audio Equipment,AV Receiver,4,3290.77,13163.08
+1173,2025-03-18,Europe,Marine Products,R15,11,10303.29,113336.19
+1174,2025-03-19,North America,Motorcycles,FZ-S,3,12371.15,37113.45
+1175,2025-03-20,Europe,Musical Instruments,MT-15,4,14951.75,59807.0
+1176,2025-03-21,India,Audio Equipment,Keyboard,2,13344.51,26689.02
+1177,2025-03-22,Asia-Pacific,Musical Instruments,Keyboard,14,9978.25,139695.5
+1178,2025-03-23,Asia-Pacific,Motorcycles,R15,9,15614.83,140533.47
+1179,2025-03-24,Japan,Musical Instruments,R15,13,12477.38,162205.94
+1180,2025-03-25,Europe,Musical Instruments,FZ-S,6,11225.31,67351.86
+1181,2025-03-26,India,Marine Products,Outboard Motor,4,10970.69,43882.76
+1182,2025-03-27,Japan,Musical Instruments,Guitar,2,3570.15,7140.3
+1183,2025-03-28,Asia-Pacific,Musical Instruments,AV Receiver,4,6119.83,24479.32
+1184,2025-03-29,Japan,Motorcycles,R15,2,8219.97,16439.94
+1185,2025-03-30,Europe,Audio Equipment,FZ-S,4,6063.55,24254.2
+1186,2025-03-31,Asia-Pacific,Marine Products,Piano,7,9138.45,63969.15
+1187,2025-04-01,North America,Audio Equipment,FZ-S,12,3122.2,37466.4
+1188,2025-04-02,Europe,Motorcycles,FZ-S,6,4041.55,24249.3
+1189,2025-04-03,India,Audio Equipment,R15,2,5591.06,11182.12
+1190,2025-04-04,Europe,Marine Products,AV Receiver,11,9152.24,100674.64
+1191,2025-04-05,North America,Audio Equipment,Outboard Motor,11,6453.38,70987.18
+1192,2025-04-06,Europe,Marine Products,Outboard Motor,14,10115.95,141623.3
+1193,2025-04-07,North America,Audio Equipment,AV Receiver,14,10988.67,153841.38
+1194,2025-04-08,North America,Marine Products,MT-15,13,2012.2,26158.6
+1195,2025-04-09,Asia-Pacific,Motorcycles,AV Receiver,11,7445.61,81901.71
+1196,2025-04-10,North America,Marine Products,R15,4,2876.37,11505.48
+1197,2025-04-11,North America,Musical Instruments,MT-15,1,255.29,255.29
+1198,2025-04-12,Asia-Pacific,Audio Equipment,AV Receiver,3,8303.6,24910.8
+1199,2025-04-13,North America,Marine Products,R15,9,5441.15,48970.35
+1200,2025-04-14,Japan,Marine Products,Guitar,13,4632.34,60220.42
+1201,2025-04-15,Europe,Motorcycles,FZ-S,3,9188.31,27564.93
+1202,2025-04-16,Japan,Musical Instruments,R15,9,6689.31,60203.79
+1203,2025-04-17,North America,Motorcycles,FZ-S,14,5654.46,79162.44
+1204,2025-04-18,India,Motorcycles,Outboard Motor,12,10424.42,125093.04
+1205,2025-04-19,North America,Motorcycles,R15,13,17945.39,233290.07
+1206,2025-04-20,Europe,Musical Instruments,Outboard Motor,3,1624.2,4872.6
+1207,2025-04-21,Japan,Musical Instruments,Keyboard,8,14432.04,115456.32
+1208,2025-04-22,India,Audio Equipment,R15,8,3765.27,30122.16
+1209,2025-04-23,Japan,Marine Products,Outboard Motor,1,9984.02,9984.02
+1210,2025-04-24,India,Motorcycles,Outboard Motor,11,6461.4,71075.4
+1211,2025-04-25,Japan,Marine Products,Guitar,11,12425.81,136683.91
+1212,2025-04-26,Asia-Pacific,Musical Instruments,AV Receiver,6,5510.59,33063.54
+1213,2025-04-27,North America,Marine Products,MT-15,1,1268.38,1268.38
+1214,2025-04-28,Japan,Musical Instruments,FZ-S,6,1896.47,11378.82
+1215,2025-04-29,North America,Audio Equipment,R15,7,17156.61,120096.27
+1216,2025-04-30,Europe,Audio Equipment,Guitar,6,8059.83,48358.98
+1217,2025-05-01,Japan,Motorcycles,R15,8,17092.48,136739.84
+1218,2025-05-02,Japan,Audio Equipment,R15,10,13330.89,133308.9
+1219,2025-05-03,India,Musical Instruments,FZ-S,14,6182.83,86559.62
+1220,2025-05-04,India,Marine Products,FZ-S,6,1011.98,6071.88
+1221,2025-05-05,Europe,Audio Equipment,Piano,14,5509.27,77129.78
+1222,2025-05-06,North America,Marine Products,Keyboard,13,745.27,9688.51
+1223,2025-05-07,North America,Musical Instruments,Piano,14,2196.1,30745.4
+1224,2025-05-08,Europe,Musical Instruments,Outboard Motor,10,4916.73,49167.3
+1225,2025-05-09,Europe,Marine Products,Outboard Motor,14,4335.93,60703.02
+1226,2025-05-10,India,Motorcycles,AV Receiver,4,12144.78,48579.12
+1227,2025-05-11,Asia-Pacific,Marine Products,R15,7,3678.38,25748.66
+1228,2025-05-12,Europe,Audio Equipment,AV Receiver,11,2531.52,27846.72
+1229,2025-05-13,Europe,Marine Products,FZ-S,3,15762.29,47286.87
+1230,2025-05-14,India,Musical Instruments,Piano,8,1986.39,15891.12
+1231,2025-05-15,India,Audio Equipment,AV Receiver,10,6731.01,67310.1
+1232,2025-05-16,Japan,Marine Products,FZ-S,1,245.73,245.73
+1233,2025-05-17,India,Marine Products,FZ-S,8,14852.35,118818.8
+1234,2025-05-18,North America,Audio Equipment,MT-15,6,14669.5,88017.0
+1235,2025-05-19,North America,Musical Instruments,Outboard Motor,5,11165.28,55826.4
+1236,2025-05-20,North America,Musical Instruments,Guitar,12,4713.25,56559.0
+1237,2025-05-21,North America,Marine Products,AV Receiver,12,6506.86,78082.32
+1238,2025-05-22,India,Musical Instruments,Piano,12,13459.62,161515.44
+1239,2025-05-23,Europe,Musical Instruments,Keyboard,7,12785.9,89501.3
+1240,2025-05-24,Asia-Pacific,Musical Instruments,Guitar,5,12821.29,64106.45
+1241,2025-05-25,North America,Marine Products,Piano,12,9483.26,113799.12
+1242,2025-05-26,Japan,Motorcycles,Keyboard,2,2512.59,5025.18
+1243,2025-05-27,India,Marine Products,Guitar,14,7292.81,102099.34
+1244,2025-05-28,Europe,Motorcycles,Guitar,10,8145.11,81451.1
+1245,2025-05-29,Japan,Marine Products,FZ-S,5,1818.89,9094.45
+1246,2025-05-30,Japan,Marine Products,Guitar,12,9373.91,112486.92
+1247,2025-05-31,Japan,Audio Equipment,FZ-S,10,1825.99,18259.9
+1248,2025-06-01,Japan,Marine Products,R15,3,6695.32,20085.96
+1249,2025-06-02,Japan,Audio Equipment,Keyboard,11,2610.44,28714.84
+1250,2025-06-03,Europe,Musical Instruments,Outboard Motor,1,5581.55,5581.55
+1251,2025-06-04,India,Musical Instruments,Outboard Motor,13,9425.58,122532.54
+1252,2025-06-05,India,Marine Products,AV Receiver,8,7179.39,57435.12
+1253,2025-06-06,Japan,Marine Products,Keyboard,5,3831.6,19158.0
+1254,2025-06-07,India,Marine Products,Guitar,4,16470.74,65882.96
+1255,2025-06-08,Japan,Marine Products,Outboard Motor,13,1667.49,21677.37
+1256,2025-06-09,India,Musical Instruments,R15,8,9883.93,79071.44
+1257,2025-06-10,India,Motorcycles,R15,10,15428.77,154287.7
+1258,2025-06-11,Japan,Motorcycles,Piano,2,15832.56,31665.12
+1259,2025-06-12,Japan,Motorcycles,Keyboard,10,16951.82,169518.2
+1260,2025-06-13,Europe,Musical Instruments,Outboard Motor,1,5661.38,5661.38
+1261,2025-06-14,Japan,Marine Products,FZ-S,10,3364.61,33646.1
+1262,2025-06-15,Asia-Pacific,Motorcycles,Piano,3,16202.62,48607.86
+1263,2025-06-16,India,Marine Products,MT-15,9,9970.08,89730.72
+1264,2025-06-17,India,Musical Instruments,FZ-S,11,11209.85,123308.35
+1265,2025-06-18,North America,Audio Equipment,Outboard Motor,1,13539.93,13539.93
+1266,2025-06-19,India,Motorcycles,MT-15,9,17923.44,161310.96
+1267,2025-06-20,Europe,Audio Equipment,Piano,14,10443.21,146204.94
+1268,2025-06-21,Asia-Pacific,Audio Equipment,Keyboard,11,4028.77,44316.47
+1269,2025-06-22,Asia-Pacific,Musical Instruments,AV Receiver,12,11843.88,142126.56
+1270,2025-06-23,Japan,Audio Equipment,MT-15,10,8439.11,84391.1
+1271,2025-06-24,Japan,Motorcycles,Piano,2,12856.78,25713.56
+1272,2025-06-25,Asia-Pacific,Motorcycles,Piano,3,5708.33,17124.99
+1273,2025-06-26,Japan,Motorcycles,MT-15,3,2578.46,7735.38
+1274,2025-06-27,Europe,Musical Instruments,AV Receiver,6,7689.07,46134.42
+1275,2025-06-28,Japan,Marine Products,FZ-S,9,2454.43,22089.87
+1276,2025-06-29,Japan,Motorcycles,Keyboard,10,2526.56,25265.6
+1277,2025-06-30,North America,Musical Instruments,Guitar,14,3290.34,46064.76
+1278,2025-07-01,Japan,Motorcycles,Piano,4,3320.44,13281.76
+1279,2025-07-02,North America,Musical Instruments,R15,12,6780.78,81369.36
+1280,2025-07-03,Europe,Marine Products,R15,12,12033.23,144398.76
+1281,2025-07-04,Japan,Audio Equipment,Keyboard,12,10707.77,128493.24
+1282,2025-07-05,Japan,Marine Products,Piano,5,4499.41,22497.05
+1283,2025-07-06,Europe,Marine Products,R15,10,14559.83,145598.3
+1284,2025-07-07,Europe,Marine Products,MT-15,3,534.9,1604.7
+1285,2025-07-08,Europe,Motorcycles,Outboard Motor,9,13757.48,123817.32
+1286,2025-07-09,Europe,Marine Products,Piano,14,15293.19,214104.66
+1287,2025-07-10,Japan,Audio Equipment,Piano,12,2262.58,27150.96
+1288,2025-07-11,Europe,Motorcycles,AV Receiver,7,10800.79,75605.53
+1289,2025-07-12,Asia-Pacific,Marine Products,Outboard Motor,6,1277.01,7662.06
+1290,2025-07-13,Japan,Audio Equipment,Guitar,7,6942.87,48600.09
+1291,2025-07-14,Europe,Motorcycles,FZ-S,12,1865.92,22391.04
+1292,2025-07-15,Japan,Motorcycles,Guitar,13,2992.33,38900.29
+1293,2025-07-16,Japan,Musical Instruments,Piano,10,17621.18,176211.8
+1294,2025-07-17,Asia-Pacific,Audio Equipment,FZ-S,12,10430.7,125168.4
+1295,2025-07-18,North America,Motorcycles,AV Receiver,7,10013.62,70095.34
+1296,2025-07-19,Europe,Motorcycles,Guitar,12,899.39,10792.68
+1297,2025-07-20,North America,Motorcycles,R15,8,4691.09,37528.72
+1298,2025-07-21,Asia-Pacific,Audio Equipment,Outboard Motor,1,6139.51,6139.51
+1299,2025-07-22,Japan,Musical Instruments,R15,1,8044.45,8044.45
+1300,2025-07-23,Europe,Musical Instruments,R15,3,11572.08,34716.24
+1301,2025-07-24,India,Musical Instruments,R15,9,9610.54,86494.86
+1302,2025-07-25,North America,Audio Equipment,MT-15,1,2310.54,2310.54
+1303,2025-07-26,North America,Motorcycles,Outboard Motor,6,3414.4,20486.4
+1304,2025-07-27,Japan,Musical Instruments,AV Receiver,13,5597.67,72769.71
+1305,2025-07-28,Japan,Marine Products,R15,3,9149.3,27447.9
+1306,2025-07-29,Japan,Marine Products,Outboard Motor,10,12940.35,129403.5
+1307,2025-07-30,India,Marine Products,FZ-S,7,785.38,5497.66
+1308,2025-07-31,Asia-Pacific,Motorcycles,FZ-S,5,5481.55,27407.75
+1309,2025-08-01,Japan,Audio Equipment,MT-15,8,3953.88,31631.04
+1310,2025-08-02,Europe,Marine Products,Outboard Motor,8,11403.11,91224.88
+1311,2025-08-03,North America,Motorcycles,MT-15,11,3219.54,35414.94
+1312,2025-08-04,North America,Marine Products,MT-15,13,5595.34,72739.42
+1313,2025-08-05,Europe,Musical Instruments,FZ-S,11,14084.93,154934.23
+1314,2025-08-06,Asia-Pacific,Musical Instruments,Keyboard,9,11414.75,102732.75
+1315,2025-08-07,North America,Marine Products,MT-15,13,14971.21,194625.73
+1316,2025-08-08,India,Audio Equipment,Keyboard,6,13002.68,78016.08
+1317,2025-08-09,Asia-Pacific,Motorcycles,FZ-S,7,10815.55,75708.85
+1318,2025-08-10,India,Marine Products,MT-15,11,6750.79,74258.69
+1319,2025-08-11,Japan,Audio Equipment,Keyboard,11,292.79,3220.69
+1320,2025-08-12,Europe,Musical Instruments,Keyboard,14,17392.74,243498.36
+1321,2025-08-13,Japan,Motorcycles,FZ-S,10,4735.74,47357.4
+1322,2025-08-14,India,Musical Instruments,Piano,14,11233.22,157265.08
+1323,2025-08-15,Asia-Pacific,Audio Equipment,Outboard Motor,3,11258.35,33775.05
+1324,2025-08-16,Europe,Musical Instruments,Outboard Motor,1,11927.33,11927.33
+1325,2025-08-17,Japan,Audio Equipment,R15,8,14083.9,112671.2
+1326,2025-08-18,Japan,Marine Products,AV Receiver,11,5934.77,65282.47
+1327,2025-08-19,North America,Marine Products,R15,1,8964.19,8964.19
+1328,2025-08-20,Asia-Pacific,Motorcycles,FZ-S,10,5077.49,50774.9
+1329,2025-08-21,North America,Motorcycles,Piano,14,12137.76,169928.64
+1330,2025-08-22,India,Marine Products,Keyboard,9,5524.82,49723.38
+1331,2025-08-23,Asia-Pacific,Motorcycles,Keyboard,12,1340.05,16080.6
+1332,2025-08-24,Asia-Pacific,Motorcycles,Outboard Motor,9,4336.38,39027.42
+1333,2025-08-25,North America,Musical Instruments,FZ-S,7,3552.2,24865.4
+1334,2025-08-26,Europe,Motorcycles,R15,9,7469.24,67223.16
+1335,2025-08-27,Japan,Musical Instruments,Guitar,12,11192.46,134309.52
+1336,2025-08-28,Europe,Motorcycles,Keyboard,7,4825.22,33776.54
+1337,2025-08-29,Asia-Pacific,Audio Equipment,FZ-S,11,17173.66,188910.26
+1338,2025-08-30,Europe,Musical Instruments,Keyboard,14,7897.84,110569.76
+1339,2025-08-31,North America,Musical Instruments,MT-15,13,3772.8,49046.4
+1340,2025-09-01,Europe,Marine Products,FZ-S,3,14721.13,44163.39
+1341,2025-09-02,Europe,Musical Instruments,Outboard Motor,10,8629.15,86291.5
+1342,2025-09-03,Japan,Motorcycles,FZ-S,6,17155.28,102931.68
+1343,2025-09-04,Asia-Pacific,Audio Equipment,Piano,9,5405.77,48651.93
+1344,2025-09-05,North America,Musical Instruments,Outboard Motor,10,9638.86,96388.6
+1345,2025-09-06,Japan,Audio Equipment,Guitar,9,5013.86,45124.74
+1346,2025-09-07,Europe,Musical Instruments,MT-15,8,15145.82,121166.56
+1347,2025-09-08,Japan,Audio Equipment,MT-15,4,15421.53,61686.12
+1348,2025-09-09,Asia-Pacific,Marine Products,MT-15,9,8329.99,74969.91
+1349,2025-09-10,North America,Marine Products,Guitar,5,16600.19,83000.95
+1350,2025-09-11,Europe,Motorcycles,Keyboard,7,17015.94,119111.58
+1351,2025-09-12,India,Musical Instruments,MT-15,10,363.17,3631.7
+1352,2025-09-13,Japan,Musical Instruments,Outboard Motor,11,4664.01,51304.11
+1353,2025-09-14,India,Musical Instruments,MT-15,10,13635.83,136358.3
+1354,2025-09-15,North America,Marine Products,R15,9,12598.36,113385.24
+1355,2025-09-16,Europe,Audio Equipment,Guitar,5,12281.7,61408.5
+1356,2025-09-17,North America,Audio Equipment,Outboard Motor,12,12285.55,147426.6
+1357,2025-09-18,North America,Motorcycles,Piano,12,4230.1,50761.2
+1358,2025-09-19,North America,Marine Products,AV Receiver,1,14734.92,14734.92
+1359,2025-09-20,Japan,Marine Products,AV Receiver,6,11100.98,66605.88
+1360,2025-09-21,Europe,Audio Equipment,Keyboard,7,8055.93,56391.51
+1361,2025-09-22,Japan,Marine Products,R15,7,16062.25,112435.75
+1362,2025-09-23,India,Motorcycles,MT-15,10,16540.29,165402.9
+1363,2025-09-24,Asia-Pacific,Marine Products,R15,6,11518.85,69113.1
+1364,2025-09-25,Europe,Audio Equipment,Keyboard,2,13538.91,27077.82
+1365,2025-09-26,India,Marine Products,Guitar,8,9049.79,72398.32
+1366,2025-09-27,Europe,Marine Products,Keyboard,1,2187.54,2187.54
+1367,2025-09-28,Japan,Marine Products,Outboard Motor,2,4082.37,8164.74
+1368,2025-09-29,Japan,Musical Instruments,Keyboard,3,17473.63,52420.89
+1369,2025-09-30,India,Audio Equipment,AV Receiver,8,3090.08,24720.64
+1370,2025-10-01,Europe,Motorcycles,Keyboard,9,7327.12,65944.08
+1371,2025-10-02,India,Musical Instruments,R15,1,13432.21,13432.21
+1372,2025-10-03,India,Motorcycles,R15,2,10139.04,20278.08
+1373,2025-10-04,Europe,Audio Equipment,Keyboard,14,8339.35,116750.9
+1374,2025-10-05,Japan,Audio Equipment,Piano,13,7043.76,91568.88
+1375,2025-10-06,Japan,Audio Equipment,R15,2,11519.62,23039.24
+1376,2025-10-07,Europe,Motorcycles,FZ-S,4,15807.38,63229.52
+1377,2025-10-08,India,Audio Equipment,Guitar,6,4992.53,29955.18
+1378,2025-10-09,Europe,Audio Equipment,FZ-S,3,15639.4,46918.2
+1379,2025-10-10,North America,Musical Instruments,Piano,12,14336.17,172034.04
+1380,2025-10-11,Japan,Musical Instruments,Piano,5,6708.97,33544.85
+1381,2025-10-12,Japan,Musical Instruments,FZ-S,10,377.49,3774.9
+1382,2025-10-13,North America,Motorcycles,Outboard Motor,11,12234.93,134584.23
+1383,2025-10-14,North America,Marine Products,Piano,8,2049.89,16399.12
+1384,2025-10-15,Asia-Pacific,Motorcycles,MT-15,10,13202.55,132025.5
+1385,2025-10-16,Japan,Marine Products,Piano,4,5316.44,21265.76
+1386,2025-10-17,Europe,Marine Products,Outboard Motor,4,9896.92,39587.68
+1387,2025-10-18,Europe,Audio Equipment,Guitar,3,7243.7,21731.1
+1388,2025-10-19,North America,Marine Products,R15,2,871.33,1742.66
+1389,2025-10-20,Asia-Pacific,Musical Instruments,Outboard Motor,6,11572.25,69433.5
+1390,2025-10-21,Japan,Audio Equipment,R15,10,4067.0,40670.0
+1391,2025-10-22,India,Marine Products,Keyboard,11,2198.58,24184.38
+1392,2025-10-23,Europe,Marine Products,AV Receiver,1,5798.82,5798.82
+1393,2025-10-24,Japan,Motorcycles,MT-15,4,13756.16,55024.64
+1394,2025-10-25,North America,Audio Equipment,MT-15,9,3906.49,35158.41
+1395,2025-10-26,North America,Marine Products,Guitar,7,5500.88,38506.16
+1396,2025-10-27,Europe,Audio Equipment,MT-15,12,12413.06,148956.72
+1397,2025-10-28,Asia-Pacific,Marine Products,MT-15,13,17694.98,230034.74
+1398,2025-10-29,Europe,Musical Instruments,MT-15,8,10550.34,84402.72
+1399,2025-10-30,Japan,Motorcycles,MT-15,7,12694.55,88861.85
+1400,2025-10-31,India,Marine Products,FZ-S,4,3175.22,12700.88
+1401,2025-11-01,Asia-Pacific,Marine Products,Piano,11,12477.08,137247.88
+1402,2025-11-02,India,Musical Instruments,Keyboard,14,1654.07,23156.98
+1403,2025-11-03,India,Audio Equipment,Piano,8,4951.48,39611.84
+1404,2025-11-04,India,Motorcycles,Outboard Motor,14,16831.98,235647.72
+1405,2025-11-05,Europe,Audio Equipment,Keyboard,5,11840.43,59202.15
+1406,2025-11-06,Japan,Marine Products,MT-15,6,12892.66,77355.96
+1407,2025-11-07,Asia-Pacific,Marine Products,FZ-S,11,13787.28,151660.08
+1408,2025-11-08,Europe,Musical Instruments,Guitar,2,13603.41,27206.82
+1409,2025-11-09,Europe,Marine Products,Keyboard,2,6702.46,13404.92
+1410,2025-11-10,Japan,Musical Instruments,Outboard Motor,5,13729.88,68649.4
+1411,2025-11-11,Asia-Pacific,Musical Instruments,R15,12,16351.07,196212.84
+1412,2025-11-12,North America,Musical Instruments,Guitar,12,11643.51,139722.12
+1413,2025-11-13,Europe,Motorcycles,R15,7,15959.14,111713.98
+1414,2025-11-14,Asia-Pacific,Audio Equipment,Guitar,8,6383.17,51065.36
+1415,2025-11-15,Japan,Audio Equipment,Guitar,5,10461.33,52306.65
+1416,2025-11-16,North America,Motorcycles,Outboard Motor,10,14217.09,142170.9
+1417,2025-11-17,India,Motorcycles,AV Receiver,13,9973.47,129655.11
+1418,2025-11-18,North America,Audio Equipment,AV Receiver,14,7248.97,101485.58
+1419,2025-11-19,India,Audio Equipment,AV Receiver,3,11829.19,35487.57
+1420,2025-11-20,Japan,Motorcycles,Guitar,6,11179.26,67075.56
+1421,2025-11-21,Asia-Pacific,Musical Instruments,Guitar,6,15906.3,95437.8
+1422,2025-11-22,North America,Marine Products,R15,1,8218.12,8218.12
+1423,2025-11-23,Asia-Pacific,Motorcycles,AV Receiver,9,14323.04,128907.36
+1424,2025-11-24,Asia-Pacific,Marine Products,Keyboard,11,7925.19,87177.09
+1425,2025-11-25,Japan,Musical Instruments,Outboard Motor,4,844.26,3377.04
+1426,2025-11-26,North America,Audio Equipment,MT-15,6,10560.36,63362.16
+1427,2025-11-27,Japan,Motorcycles,Outboard Motor,2,8422.38,16844.76
+1428,2025-11-28,Europe,Marine Products,Guitar,12,17123.92,205487.04
+1429,2025-11-29,North America,Marine Products,MT-15,9,15194.93,136754.37
+1430,2025-11-30,Asia-Pacific,Motorcycles,AV Receiver,11,17670.22,194372.42
+1431,2025-12-01,Europe,Marine Products,Guitar,5,12565.24,62826.2
+1432,2025-12-02,India,Audio Equipment,AV Receiver,4,13113.41,52453.64
+1433,2025-12-03,India,Musical Instruments,MT-15,13,17138.63,222802.19
+1434,2025-12-04,India,Marine Products,AV Receiver,8,2860.96,22887.68
+1435,2025-12-05,India,Musical Instruments,Piano,10,3084.34,30843.4
+1436,2025-12-06,North America,Motorcycles,MT-15,14,11875.43,166256.02
+1437,2025-12-07,India,Musical Instruments,MT-15,4,2013.34,8053.36
+1438,2025-12-08,Japan,Audio Equipment,Piano,3,3543.99,10631.97
+1439,2025-12-09,Asia-Pacific,Marine Products,MT-15,14,4951.05,69314.7
+1440,2025-12-10,India,Marine Products,AV Receiver,6,11056.76,66340.56
+1441,2025-12-11,Japan,Audio Equipment,AV Receiver,1,3762.96,3762.96
+1442,2025-12-12,North America,Marine Products,MT-15,7,7965.88,55761.16
+1443,2025-12-13,Japan,Marine Products,Outboard Motor,14,1778.74,24902.36
+1444,2025-12-14,Asia-Pacific,Musical Instruments,Keyboard,7,11473.33,80313.31
+1445,2025-12-15,Europe,Audio Equipment,AV Receiver,14,9255.98,129583.72
+1446,2025-12-16,India,Audio Equipment,Keyboard,9,16388.1,147492.9
+1447,2025-12-17,Japan,Audio Equipment,Guitar,11,8006.61,88072.71
+1448,2025-12-18,India,Motorcycles,MT-15,1,11799.92,11799.92
+1449,2025-12-19,Asia-Pacific,Audio Equipment,Keyboard,1,6069.53,6069.53
+1450,2025-12-20,Europe,Audio Equipment,Keyboard,2,7852.8,15705.6
+1451,2025-12-21,India,Musical Instruments,Guitar,5,16068.61,80343.05
+1452,2025-12-22,Europe,Marine Products,R15,14,13314.73,186406.22
+1453,2025-12-23,Asia-Pacific,Motorcycles,FZ-S,13,6387.27,83034.51
+1454,2025-12-24,Europe,Audio Equipment,Outboard Motor,10,13651.86,136518.6
+1455,2025-12-25,Europe,Audio Equipment,Piano,7,605.72,4240.04
+1456,2025-12-26,Asia-Pacific,Marine Products,AV Receiver,8,14315.21,114521.68
+1457,2025-12-27,Europe,Motorcycles,Outboard Motor,8,8092.94,64743.52
+1458,2025-12-28,Japan,Musical Instruments,Piano,6,14960.82,89764.92
+1459,2025-12-29,Japan,Motorcycles,R15,4,4416.49,17665.96
+1460,2025-12-30,Europe,Motorcycles,AV Receiver,11,2226.04,24486.44
+1461,2025-12-31,India,Marine Products,Outboard Motor,13,3954.79,51412.27
+1462,2026-01-01,India,Marine Products,Guitar,3,1261.31,3783.93
+1463,2026-01-02,Japan,Audio Equipment,MT-15,8,7298.26,58386.08
+1464,2026-01-03,India,Musical Instruments,MT-15,3,1924.61,5773.83
+1465,2026-01-04,India,Audio Equipment,MT-15,2,5237.09,10474.18
+1466,2026-01-05,North America,Audio Equipment,AV Receiver,10,9757.32,97573.2
+1467,2026-01-06,India,Audio Equipment,R15,14,17117.92,239650.88
+1468,2026-01-07,Europe,Marine Products,MT-15,12,10074.62,120895.44
+1469,2026-01-08,India,Musical Instruments,R15,5,567.63,2838.15
+1470,2026-01-09,Europe,Musical Instruments,Outboard Motor,7,15540.18,108781.26
+1471,2026-01-10,North America,Musical Instruments,R15,8,14462.21,115697.68
+1472,2026-01-11,Japan,Musical Instruments,Guitar,9,12203.09,109827.81
+1473,2026-01-12,North America,Audio Equipment,AV Receiver,14,14019.72,196276.08
+1474,2026-01-13,Japan,Marine Products,Guitar,14,8225.4,115155.6
+1475,2026-01-14,India,Musical Instruments,Outboard Motor,8,3764.05,30112.4
+1476,2026-01-15,North America,Motorcycles,Keyboard,3,9448.13,28344.39
+1477,2026-01-16,Asia-Pacific,Musical Instruments,AV Receiver,10,8945.25,89452.5
+1478,2026-01-17,Europe,Marine Products,Keyboard,13,8759.88,113878.44
+1479,2026-01-18,India,Motorcycles,Outboard Motor,2,14727.85,29455.7
+1480,2026-01-19,Europe,Audio Equipment,Guitar,10,16767.33,167673.3
+1481,2026-01-20,India,Marine Products,Piano,10,467.5,4675.0
+1482,2026-01-21,Japan,Marine Products,AV Receiver,8,13542.64,108341.12
+1483,2026-01-22,North America,Musical Instruments,MT-15,6,12105.59,72633.54
+1484,2026-01-23,Japan,Marine Products,R15,9,4250.95,38258.55
+1485,2026-01-24,Asia-Pacific,Marine Products,R15,9,2022.0,18198.0
+1486,2026-01-25,India,Musical Instruments,Outboard Motor,7,10410.87,72876.09
+1487,2026-01-26,India,Motorcycles,Guitar,3,15597.99,46793.97
+1488,2026-01-27,India,Audio Equipment,AV Receiver,11,12307.69,135384.59
+1489,2026-01-28,Asia-Pacific,Marine Products,AV Receiver,10,8333.96,83339.6
+1490,2026-01-29,Japan,Motorcycles,Piano,12,7991.66,95899.92
+1491,2026-01-30,North America,Marine Products,AV Receiver,11,1205.41,13259.51
+1492,2026-01-31,North America,Motorcycles,Guitar,11,11210.88,123319.68
+1493,2026-02-01,Japan,Marine Products,Piano,6,15197.33,91183.98
+1494,2026-02-02,Europe,Musical Instruments,Guitar,5,3318.5,16592.5
+1495,2026-02-03,Japan,Marine Products,Piano,6,11738.75,70432.5
+1496,2026-02-04,Japan,Motorcycles,Guitar,11,7927.17,87198.87
+1497,2026-02-05,North America,Motorcycles,Piano,10,17816.03,178160.3
+1498,2026-02-06,Japan,Audio Equipment,MT-15,2,10975.85,21951.7
+1499,2026-02-07,North America,Audio Equipment,Guitar,13,17898.08,232675.04
+1500,2026-02-08,North America,Audio Equipment,FZ-S,10,13915.85,139158.5
